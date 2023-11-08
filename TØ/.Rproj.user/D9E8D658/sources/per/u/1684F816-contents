@@ -1,0 +1,33 @@
+#Opgave a
+
+Y = seq(-2, 20 , by = 1)
+X = dpois(Y,3)
+plot(X, type = "l" )
+
+#Opgave b
+N = 10000
+X = rpois(N,3)
+Y=mean(X)
+S= sapply(1:N, function(n) mean(X[1:n]))
+plot(1:N, S, type = "l", main = "Simuleret middelværdi for poisson  med lambda lig 3", xlab = "Antal simuleringer", ylab = "Værdi")
+abline(h = 3, col = "blue")
+
+#opgave c
+N = 10000
+X = rpois(N,3)
+Y = mean(sqrt(X))
+cat(Y)
+
+#opgave d
+N = 10000
+X = rpois(N,3)
+standardAfvigelse = sd(X)
+cat(standardAfvigelse)
+sd = sqrt(3)
+cat(sd)
+
+
+N = 10000
+X= rpois(N,100)
+Y = mean(log(X+1))
+cat(Y)

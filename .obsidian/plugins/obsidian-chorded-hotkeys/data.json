@@ -1,0 +1,60 @@
+{
+  "delay": 41.6625,
+  "setDelayManually": false,
+  "showTextChordExecuted": false,
+  "showTemplateChordExecuted": false,
+  "showFileChordExecuted": false,
+  "showCommandChordExecuted": true,
+  "chords": [
+    {
+      "key": "zf",
+      "value": "\\frac{}{}",
+      "chordType": 0
+    },
+    {
+      "key": "zi",
+      "value": "\\int_{}^{}",
+      "chordType": 0
+    },
+    {
+      "key": "ze",
+      "value": "\\begin{equation}\n\\begin{cases}\n\\end{cases}\n\\end{equation}",
+      "chordType": 0
+    },
+    {
+      "key": "¨",
+      "value": "\\sim",
+      "chordType": 0
+    },
+    {
+      "key": "ra",
+      "value": "\\rightarrow",
+      "chordType": 0
+    },
+    {
+      "key": "in",
+      "value": "\\infty",
+      "chordType": 0
+    },
+    {
+      "key": "zs",
+      "value": "\\sum_{=}^{}",
+      "chordType": 0
+    },
+    {
+      "key": "+",
+      "value": " + ",
+      "chordType": 0
+    },
+    {
+      "key": "-",
+      "value": " - ",
+      "chordType": 0
+    },
+    {
+      "key": "z'",
+      "value": "\\cdot ",
+      "chordType": 0
+    }
+  ]
+}

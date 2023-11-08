@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Kapitel 1\"",
+      "color": {
+        "a": 1,
+        "rgb": 2278
+      }
+    },
+    {
+      "query": "path:\"Kapitel 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 655508
+      }
+    },
+    {
+      "query": "path:\"Kapitel 3\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 30085
+      }
+    },
+    {
+      "query": "path:\"Kapitel 4\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 54783
+      }
+    },
+    {
+      "query": "path:\"Kapitel 5\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4981374
+      }
+    },
+    {
+      "query": "path:\"Kapitel 6\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15257
+      }
+    },
+    {
+      "query": "path:\"Kapitel 7\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5911985
+      }
+    },
+    {
+      "query": "path:\"Kapitel 8\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 23198
+      }
+    },
+    {
+      "query": "path:Tester",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Forlæsninger  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
+    {
+      "query": "path:Proofs  ",
+      "color": {
+        "a": 1,
+        "rgb": 408583
+      }
+    },
+    {
+      "query": "path:TØ  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Attachments  ",
+      "color": {
+        "a": 1,
+        "rgb": 11051781
+      }
+    },
+    {
+      "query": "path:Afleveringer  ",
+      "color": {
+        "a": 1,
+        "rgb": 7429688
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.090625,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.333033842467805,
+  "repelStrength": 20,
+  "linkStrength": 0.664313524151799,
+  "linkDistance": 30,
+  "scale": 0.11799983797660063,
+  "close": true
+}

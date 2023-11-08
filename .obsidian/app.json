@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

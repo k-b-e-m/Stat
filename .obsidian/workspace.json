@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "8c9647158226e248",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8417f58bd86b3dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c62fef53db82d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb76486cf75c119a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37da0b6153df243e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617836b978aa8f65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4e51bd26c50d004",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eafc92b6078bacf0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a71dbd96daa946e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "27b69dd067cc9828",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca1d0c1a75cfec41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac387bb089a1a7f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c18de82a6b7904f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c79b6f772700111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69ffbcb52350a91a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f884d77b214e55d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "60bd09eb63d3aa26",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "15208083bb70b1c8",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "b90f74bcbf68c7b4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "mathpad:Open Mathpad": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "15208083bb70b1c8",
+  "lastOpenFiles": [
+    "Forlæsninger/Forlæsning 19.md",
+    "Attachments/example 8.13.png",
+    "Attachments/Forlæsning 19 example 8.10.png",
+    "Afleveringer/Aflevering 9.md",
+    "HjælpeMidler/solutions_to_probability_book.pdf",
+    "HjælpeMidler",
+    "Untitled.md",
+    "Attachments/pdf for Eksponential.png",
+    "Afleveringer/Aflevering 10.md",
+    "Forlæsninger/Forlæsning 18.md",
+    "Kapitel 8/8.2 Point Estimation.md",
+    "Kapitel 8/8.3 Interval estimation (Confidence Intervals).md",
+    "TØ/Tø Uge 10.md",
+    "Attachments/Aflevering 10 trykfejl.png",
+    "Attachments/Aflevering 10 problem 8.png",
+    "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
+    "Kapitel 3/3.1 Basic Concepts.md",
+    "Forlæsninger/Forlæsning 9.md",
+    "Attachments/Variance of random variables.png",
+    "Kapitel 8/8.4 Hypothesis Testing.md",
+    "Attachments/Definition 8.3.png",
+    "Attachments/Theorem 8.4.png",
+    "Attachments/Definition 8.2 the t-distribution.png",
+    "Attachments/Theorem 8.3.png",
+    "Forlæsninger/Forlæsning 17.md",
+    "Kapitel 4/4.1 Continuous Random Variables and their Distributions.md",
+    "Kapitel 5/5.3 More Topics.md",
+    "TØ/Tø uge 9.md",
+    "Kapitel 7/7.2 Convergence of Random Variables.md",
+    "Forlæsninger/Monte carlo integration.md",
+    "Forlæsninger/Forlæsning 16.md",
+    "Kapitel 5/5.2 Two Continuous Random Variables.md",
+    "Kapitel 5/5.1 Two Discrete Random Variables.md",
+    "lotuss.md",
+    "Kapitel 6/6.1 Methods for More Than Two Random Variables.md",
+    "Forlæsninger/Forlæsning 10.md",
+    "Forlæsninger/Forlæsning 14.md",
+    "Kapitel 8",
+    "Kapitel 7",
+    "Kapitel 6",
+    "Afleveringer",
+    "TØ/uge 7.R",
+    "Attachments/Coupon problem.pdf",
+    "Kapitel 5",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Kapitel 4"
+  ]
+}
