@@ -1,3 +1,4 @@
+f
 ![[Tø uge 3 - opgave 1.png]]
 Vi antager at de er uafhængige. Vi ved at chancen af en fejler er $\frac{1}{100}$ . Derved kan vi regne chancen for det ikke fejler ud til at være $P(virker) = 1- \frac{1}{100}$ Det vil sige at chancen for at begge to virker kan udregnes ved $P(begge Dør) = \frac{1}{100} \cdot \frac{1}{100}$.  Vi kan så tage komplementet til dette for at få at mindst en virker: $P(beggeVirker)^{c}= 1-(\frac{1}{100} \cdot \frac{1}{100})= 0.9999$.
 

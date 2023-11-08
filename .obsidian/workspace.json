@@ -11,8 +11,12 @@
             "id": "68c62fef53db82d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TØ/Tø uge 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -70,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TØ/Tø uge 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TØ/Tø uge 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TØ/Tø uge 3.md"
+              }
             }
           },
           {
@@ -186,7 +193,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "15208083bb70b1c8",
+  "active": "68c62fef53db82d1",
   "lastOpenFiles": [
     "Forlæsninger/Forlæsning 19.md",
     "Attachments/example 8.13.png",
