@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TØ/Tø Uge 10.md",
+                "file": "Forlæsninger/Forlæsning 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "27b69dd067cc9828",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TØ/Tø Uge 10.md",
+                "file": "Forlæsninger/Forlæsning 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TØ/Tø Uge 10.md",
+                "file": "Forlæsninger/Forlæsning 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TØ/Tø Uge 10.md"
+                "file": "Forlæsninger/Forlæsning 20.md"
               }
             }
           },
@@ -195,10 +196,12 @@
   },
   "active": "68c62fef53db82d1",
   "lastOpenFiles": [
+    "Attachments/8_10_overviewCIs.pdf",
+    "TØ/Tø Uge 10.md",
+    "Forlæsninger/Forlæsning 20.md",
     "TØ/Tø uge 9.md",
     "Afleveringer/Aflevering 9.md",
     "Afleveringer/Aflevering 10.md",
-    "TØ/Tø Uge 10.md",
     "TØ/Tø uge 3.md",
     "Forlæsninger/Forlæsning 19.md",
     "Attachments/example 8.13.png",
@@ -231,8 +234,6 @@
     "Kapitel 5/5.1 Two Discrete Random Variables.md",
     "lotuss.md",
     "Kapitel 6/6.1 Methods for More Than Two Random Variables.md",
-    "Forlæsninger/Forlæsning 10.md",
-    "Forlæsninger/Forlæsning 14.md",
     "Kapitel 8",
     "Kapitel 7",
     "Kapitel 6",
