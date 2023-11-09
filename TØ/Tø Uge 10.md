@@ -54,9 +54,20 @@ ___
 SPØRG TIL TØ
 ___
 ![[Tø Uge 10 eksamen 20192020 opgave 6.png]]
-SPØRG TIL TØ
+
 ![[Unbiased of estimator.png]]
 ![[Bias of a point.png]]
+Vi for givet en random sample hvor alle x er poisson fordelt. Vi vil derfor estimere lambda:
+$\hat\lambda = \bar X$
+Vi skal nu finde ud af om 
+$B(\hat\lambda) = E[\hat\lambda] -\theta = E[X] - \lambda$
+Det vides at E[X] er lambda:
+$$
+\lambda  -  \lambda = 0 
+$$
+$MSE(\hat\lambda) = var(\hat\lambda)  +  B(\hat\lambda)$ Det vides at $B(\hat\lambda)=0$
+Derved får vi:
+$MSE(\hat\lambda) = Var(\hat\lambda) = var(\bar X) = \frac{\sigma²}{n} = \frac{\lambda}{n}$ 
 
 ___
 ![[Tø Uge 10 eksmaen vinter 20192020 opgave 7.png]]
@@ -81,7 +92,9 @@ $$
 
 ___
 ![[Tø Uge 10 problem 2.png]]
-SPØRG TIL TØ
+
+
+
 ___
 ![[Tø Uge 10 Problem 3.png]]
 SPRØG TIL TØ
