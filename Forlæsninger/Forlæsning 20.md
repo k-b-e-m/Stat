@@ -31,7 +31,10 @@ qchisq(alpha,n)
 ```
 ![[Theorem 8.3.png]]
 
+![[Theorem 8.4.png]]
 
+I og med at T afhænger af antal observationer, er Q ikke afhængig af $\theta$ og er dermed en pivot.
 ___
+
 
 
