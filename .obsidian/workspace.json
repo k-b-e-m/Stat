@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md",
+                "file": "TØ/Tø Uge 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "27b69dd067cc9828",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md",
+                "file": "TØ/Tø Uge 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md",
+                "file": "TØ/Tø Uge 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md"
+                "file": "TØ/Tø Uge 11.md"
               }
             }
           },
@@ -194,16 +193,23 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "60bd09eb63d3aa26",
+  "active": "68c62fef53db82d1",
   "lastOpenFiles": [
     "Forlæsninger/Forlæsning 20.md",
-    "Attachments/8_10_overviewCIs.pdf",
+    "R scripts/Find Theta and Sigma for observations.R~",
+    "Forlæsninger/Forlæsning 19.md",
+    "TØ/Tø Uge 11.md",
+    "R scripts/Find Theta and Sigma for observations.R",
+    "R scripts",
+    "Attachments/Tø Uge 11 - problem 14.png",
+    "Attachments/Tø Uge 11 - problem 13.png",
+    "Attachments/Tø Uge 11 Problem 11.png",
     "TØ/Tø Uge 10.md",
     "TØ/Tø uge 9.md",
-    "Afleveringer/Aflevering 9.md",
     "Afleveringer/Aflevering 10.md",
+    "Attachments/8_10_overviewCIs.pdf",
+    "Afleveringer/Aflevering 9.md",
     "TØ/Tø uge 3.md",
-    "Forlæsninger/Forlæsning 19.md",
     "Attachments/example 8.13.png",
     "Attachments/Forlæsning 19 example 8.10.png",
     "HjælpeMidler/solutions_to_probability_book.pdf",
@@ -221,9 +227,6 @@
     "Attachments/Variance of random variables.png",
     "Kapitel 8/8.4 Hypothesis Testing.md",
     "Attachments/Definition 8.3.png",
-    "Attachments/Theorem 8.4.png",
-    "Attachments/Definition 8.2 the t-distribution.png",
-    "Attachments/Theorem 8.3.png",
     "Forlæsninger/Forlæsning 17.md",
     "Kapitel 4/4.1 Continuous Random Variables and their Distributions.md",
     "Kapitel 5/5.3 More Topics.md",
@@ -233,14 +236,10 @@
     "Kapitel 5/5.2 Two Continuous Random Variables.md",
     "Kapitel 5/5.1 Two Discrete Random Variables.md",
     "lotuss.md",
-    "Kapitel 6/6.1 Methods for More Than Two Random Variables.md",
     "Kapitel 8",
     "Kapitel 7",
     "Kapitel 6",
     "Afleveringer",
-    "TØ/uge 7.R",
-    "Attachments/Coupon problem.pdf",
-    "Kapitel 5",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
