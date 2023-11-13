@@ -1,4 +1,4 @@
-## Kendt simga ikke normalfordelt
+  ## Kendt simga ikke normalfordelt
 #Varians
 S2 = 81
 #Sigma
@@ -31,3 +31,22 @@ zp = qnorm(alpha/2)
 higher = barX -zp*(SampleS/sqrt(n))
 ##Higher
 lower = barX + zp*(SampleS/sqrt(n))
+
+#Find the mean with unkown mean and variance normal distribution
+  alpha = 0.1
+  sampleMean = 35.8
+  S2 = 12.5
+  S = sqrt(12.5)
+  n = 36
+  qt = qt(alpha/2,n-1)
+  lower = sampleMean -(qt *(S/sqrt(n)))
+  higher = sampleMean +( qt*(S/sqrt(n)))
+
+## normaldistribution for ukendt mean og variance men kendt sample mean og sample variance find varians
+n = 36
+S2 = 12.5
+alpha = 0.1
+chiHigher = qchisq(alpha/2, n-1)
+chiLower = qchisq(1-alpha/2, n-1)
+lower = (1 - n) * S2 /(chiLower)
+higher = (1 - n) * S2 /(chiHigher)
