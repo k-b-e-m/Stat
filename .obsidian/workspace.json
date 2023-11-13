@@ -18,6 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ced6c663aceafe4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "HjælpeMidler/solutions_to_probability_book.pdf"
+              }
+            }
+          },
+          {
+            "id": "853fcc77948a3e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forlæsninger/Forlæsning 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -173,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -195,10 +217,11 @@
   },
   "active": "68c62fef53db82d1",
   "lastOpenFiles": [
-    "Forlæsninger/Forlæsning 20.md",
-    "R scripts/Find Theta and Sigma for observations.R~",
-    "Forlæsninger/Forlæsning 19.md",
+    "HjælpeMidler/solutions_to_probability_book.pdf",
     "TØ/Tø Uge 11.md",
+    "R scripts/Find Theta and Sigma for observations.R~",
+    "Forlæsninger/Forlæsning 20.md",
+    "Forlæsninger/Forlæsning 19.md",
     "R scripts/Find Theta and Sigma for observations.R",
     "R scripts",
     "Attachments/Tø Uge 11 - problem 14.png",
@@ -212,7 +235,6 @@
     "TØ/Tø uge 3.md",
     "Attachments/example 8.13.png",
     "Attachments/Forlæsning 19 example 8.10.png",
-    "HjælpeMidler/solutions_to_probability_book.pdf",
     "HjælpeMidler",
     "Untitled.md",
     "Attachments/pdf for Eksponential.png",

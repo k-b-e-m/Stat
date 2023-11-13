@@ -4,15 +4,30 @@ S2 = 81
 #Sigma
 S = sqrt(81)
 #antal observationer
-N = 100
+n = 100
 #Alpha
 alpha = 0.05
 #Mean variane
 barX = 50.1
 ## 1-p fraktilen
-zp = qnorm(Alpha/2,n-1)-
+zp = qnorm(alpha/2)
 
 ##Lower
-lower = barX -zp*(S/sqrt(N))
+higher = barX -zp*(S/sqrt(N))
 ##Higher
-higher = barX + zp*(S/sqrt(N))
+lower = barX + zp*(S/sqrt(N))
+
+
+## Known sample mean and sample variance
+
+barX = 110.5
+SampleVariance = 45.6
+SampleS = sqrt(SampleVariance)
+n = 100
+alpha = 0.05
+zp = qnorm(alpha/2)
+
+##Lower
+higher = barX -zp*(SampleS/sqrt(n))
+##Higher
+lower = barX + zp*(SampleS/sqrt(n))
