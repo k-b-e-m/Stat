@@ -1,4 +1,17 @@
-  ## Kendt simga ikke normalfordelt
+##Kendt sigma og sample mean
+sampleMean = 2
+varians = 1/(5*5)
+sigma = sqrt(varians)
+n = 10
+alpha = 0.05
+zp = qnorm(0.05/2)
+higher = sampleMean - zp * (sigma/sqrt(n))
+lower = sampleMean + zp * (sigma/sqrt(n))
+
+
+
+
+## Kendt simga ikke normalfordelt
 #Varians
 S2 = 81
 #Sigma
