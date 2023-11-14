@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md",
+                "file": "Kapitel 8/8.4 Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md",
+                "file": "Kapitel 8/8.4 Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md",
+                "file": "Kapitel 8/8.4 Hypothesis Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forlæsninger/Forlæsning 20.md"
+                "file": "Kapitel 8/8.4 Hypothesis Testing.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,6 +220,9 @@
   },
   "active": "ce3b7f91e6531e40",
   "lastOpenFiles": [
+    "Attachments/Computation of P-Values.png",
+    "Attachments/Definition of P-value.png",
+    "Forlæsninger/Forlæsning 20.md",
     "R scripts/Find Theta and Sigma for observations.R~",
     "Afleveringer/Aflevering 11.md",
     "TØ/Tø uge 6.md",
@@ -230,7 +233,6 @@
     "Attachments/Aflevering 11 - hint.png",
     "Attachments/Aflevering 11.png",
     "TØ/Tø Uge 11.md",
-    "Forlæsninger/Forlæsning 20.md",
     "HjælpeMidler/solutions_to_probability_book.pdf",
     "R scripts/Find Theta and Sigma for observations.R",
     "R scripts",
@@ -251,7 +253,6 @@
     "Kapitel 8/8.2 Point Estimation.md",
     "Kapitel 8/8.3 Interval estimation (Confidence Intervals).md",
     "Attachments/Aflevering 10 trykfejl.png",
-    "Attachments/Aflevering 10 problem 8.png",
     "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
     "Kapitel 3/3.1 Basic Concepts.md",
     "Forlæsninger/Forlæsning 9.md",
