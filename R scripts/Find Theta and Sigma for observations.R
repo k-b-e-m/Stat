@@ -64,25 +64,3 @@ chiLower = qchisq(1-alpha/2, n-1)
 lower = (1 - n) * S2 /(chiLower)
 higher = (1 - n) * S2 /(chiHigher)
 
-
-qgamma(0.5,10)/10
-qgamma(0.5,1000)/1000
-qgamma(0.5,10)
-0.5^10
-solve(P(0.9668<=c)<=0.05,c)
-
-library(stats)
-# Set smaller plot margins
-par(mar = c(1, 1, 1, 1) + 0.1)
-w = function(x){(qgamma(0.5,x))/(x)}
-
-
-joint <- function(x){
-  temp <- (exp(-0.5)*(0.5^2))/(factorial(9))
-  temp2 <- (0.5*x^9*exp(x))/factorial(9)
-  return(temp * temp2)}
-range <- seq(0,10,by = 0.01)
-plotvalues <- sapply(x,joint)
-plot(plotvalues,range,b)
-
-cat("done")

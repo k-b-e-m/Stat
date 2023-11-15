@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -205,7 +205,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "617836b978aa8f65",
+  "active": "b90f74bcbf68c7b4",
   "lastOpenFiles": [
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 21.md",
