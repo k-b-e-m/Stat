@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md",
+                "file": "TØ/Tø uge 12.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md",
+                "file": "TØ/Tø uge 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md",
+                "file": "TØ/Tø uge 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md"
+                "file": "TØ/Tø uge 12.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -206,8 +205,17 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "b4e51bd26c50d004",
+  "active": "1fd073094f185181",
   "lastOpenFiles": [
+    "R scripts/Workspace.R~",
+    "R scripts/Workspace.R",
+    "Attachments/Tø uge 12 vinter 20182019.png",
+    "R scripts/2 sidet hypotesetest.R~",
+    "R scripts/2 sidet hypotesetest.R",
+    "R scripts/Estimereing af middelværdi konfidensintervaller.R",
+    "Attachments/Tø uge 12 sommer 2019 opgave 6.png",
+    "Afleveringer/Aflevering 11.md",
+    "TØ/Tø uge 12.md",
     "Forlæsninger/Forlæsning 22.md",
     "TØ/Tø Uge 11.md",
     "Forlæsninger/Forlæsning 20.md",
@@ -222,13 +230,10 @@
     "Attachments/Likelihood ratio tests.png",
     "Attachments/Likelihood ratio test for simple hypothesis.png",
     "Attachments/Likelihood function for random samples.png",
-    "Afleveringer/Aflevering 11.md",
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 21.md",
     "Attachments/table 8.4 - one sided.png",
     "Attachments/table 8.3 one sided.png",
-    "Attachments/table 8.2 - two sided.png",
-    "Attachments/Eksempel 8.24 with solution.png",
     "TØ/Tø uge 6.md",
     "TØ/Tø uge 5.md",
     "HjælpeMidler/solutions_to_probability_book.pdf",
@@ -248,12 +253,6 @@
     "Kapitel 3/3.1 Basic Concepts.md",
     "Forlæsninger/Forlæsning 9.md",
     "Kapitel 4/4.1 Continuous Random Variables and their Distributions.md",
-    "Kapitel 5/5.3 More Topics.md",
-    "Kapitel 7/7.2 Convergence of Random Variables.md",
-    "Kapitel 8",
-    "Kapitel 7",
-    "Kapitel 6",
-    "Afleveringer",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
