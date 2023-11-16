@@ -73,7 +73,7 @@ Gamma(1000,500)
 $$
 Derved kan vi nu ved R regne ud får signifikant niveau 0.05:
 ```R
-Gamma(0.05,1000,500)
+qgamma(0.05,1000,500)
 ```
 Ved dette får vi 1.89712.
 
