@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md",
+                "file": "Kapitel 8/8.5 Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md",
+                "file": "Kapitel 8/8.5 Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md",
+                "file": "Kapitel 8/8.5 Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Afleveringer/Aflevering 11.md"
+                "file": "Kapitel 8/8.5 Linear Regression.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,32 +205,34 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "b90f74bcbf68c7b4",
+  "active": "bed4314ad041d543",
   "lastOpenFiles": [
+    "Attachments/Coeffecient determination.png",
+    "Attachments/Simple linear regression.png",
+    "Attachments/Simple linear regression model.png",
+    "Kapitel 8/8.4 Hypothesis Testing.md",
+    "Kapitel 8/8.5 Linear Regression.md",
+    "Attachments/Likelihood ratio tests.png",
+    "Attachments/Likelihood ratio test for simple hypothesis.png",
+    "Attachments/Likelihood function for random samples.png",
+    "Afleveringer/Aflevering 11.md",
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 21.md",
-    "Kapitel 8/8.4 Hypothesis Testing.md",
     "Attachments/table 8.4 - one sided.png",
     "Attachments/table 8.3 one sided.png",
     "Attachments/table 8.2 - two sided.png",
     "Attachments/Eksempel 8.24 with solution.png",
-    "Afleveringer/Aflevering 11.md",
     "Attachments/Computation of P-Values.png",
-    "Attachments/Definition of P-value.png",
     "Forlæsninger/Forlæsning 20.md",
     "TØ/Tø uge 6.md",
     "TØ/Tø uge 5.md",
     "Forlæsninger/Forlæsning 19.md",
     "Forlæsninger/Forlæsning 17.md",
     "Forlæsninger/Forlæsning 18.md",
-    "Attachments/Aflevering 11 - hint.png",
-    "Attachments/Aflevering 11.png",
     "TØ/Tø Uge 11.md",
     "HjælpeMidler/solutions_to_probability_book.pdf",
     "R scripts/Find Theta and Sigma for observations.R",
     "R scripts",
-    "Attachments/Tø Uge 11 - problem 14.png",
-    "Attachments/Tø Uge 11 - problem 13.png",
     "TØ/Tø Uge 10.md",
     "TØ/Tø uge 9.md",
     "Afleveringer/Aflevering 10.md",
@@ -247,7 +249,6 @@
     "Kapitel 4/4.1 Continuous Random Variables and their Distributions.md",
     "Kapitel 5/5.3 More Topics.md",
     "Kapitel 7/7.2 Convergence of Random Variables.md",
-    "Forlæsninger/Monte carlo integration.md",
     "Kapitel 8",
     "Kapitel 7",
     "Kapitel 6",
