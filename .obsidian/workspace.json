@@ -86,12 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "27b69dd067cc9828",
@@ -206,7 +206,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "617836b978aa8f65",
+  "active": "b4e51bd26c50d004",
   "lastOpenFiles": [
     "Forlæsninger/Forlæsning 22.md",
     "TØ/Tø Uge 11.md",
