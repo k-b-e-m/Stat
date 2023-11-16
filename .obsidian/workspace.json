@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bed4314ad041d543",
+            "id": "1fd073094f185181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kapitel 8/8.5 Linear Regression.md",
+                "file": "Afleveringer/Aflevering 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "27b69dd067cc9828",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kapitel 8/8.5 Linear Regression.md",
+                "file": "Afleveringer/Aflevering 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kapitel 8/8.5 Linear Regression.md",
+                "file": "Afleveringer/Aflevering 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kapitel 8/8.5 Linear Regression.md"
+                "file": "Afleveringer/Aflevering 11.md"
               }
             }
           },
@@ -205,13 +206,19 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "bed4314ad041d543",
+  "active": "617836b978aa8f65",
   "lastOpenFiles": [
+    "Forlæsninger/Forlæsning 22.md",
+    "TØ/Tø Uge 11.md",
+    "Forlæsninger/Forlæsning 20.md",
+    "Forlæsninger/Forlæsning 17.md",
+    "Forlæsninger/Forlæsning 18.md",
+    "Forlæsninger/Forlæsning 19.md",
+    "Kapitel 8/8.5 Linear Regression.md",
     "Attachments/Coeffecient determination.png",
     "Attachments/Simple linear regression.png",
     "Attachments/Simple linear regression model.png",
     "Kapitel 8/8.4 Hypothesis Testing.md",
-    "Kapitel 8/8.5 Linear Regression.md",
     "Attachments/Likelihood ratio tests.png",
     "Attachments/Likelihood ratio test for simple hypothesis.png",
     "Attachments/Likelihood function for random samples.png",
@@ -222,14 +229,8 @@
     "Attachments/table 8.3 one sided.png",
     "Attachments/table 8.2 - two sided.png",
     "Attachments/Eksempel 8.24 with solution.png",
-    "Attachments/Computation of P-Values.png",
-    "Forlæsninger/Forlæsning 20.md",
     "TØ/Tø uge 6.md",
     "TØ/Tø uge 5.md",
-    "Forlæsninger/Forlæsning 19.md",
-    "Forlæsninger/Forlæsning 17.md",
-    "Forlæsninger/Forlæsning 18.md",
-    "TØ/Tø Uge 11.md",
     "HjælpeMidler/solutions_to_probability_book.pdf",
     "R scripts/Find Theta and Sigma for observations.R",
     "R scripts",

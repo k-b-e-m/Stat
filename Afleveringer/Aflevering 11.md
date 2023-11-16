@@ -12,14 +12,5 @@ Vi ved at eftersom $X_{i}$ alle er exponential fordelte at EX af exponential er 
 
 b)
 Vi ved ved denne opgave at:
-$W = \bar X$
-Og skal nu finde en konstant, c, og så er vores signifikant niveau på 0.05. Altså
-$$
-\begin{align*}
-P(\text{type I error}) = \\
-P(\text{Reject }H_{0}|H_{0})=\\
-P(|\bar X |>c|H_{0})\leq 0.05
-\end{align*}
-$$
 
 c)
