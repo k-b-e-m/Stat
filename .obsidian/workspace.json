@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7949dace61eca523",
+        "id": "5c01e7f429a393a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1fd073094f185181",
+            "id": "2ec069fb737c9305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md",
+                "file": "Forlæsninger/Forlæsning 22.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md",
+                "file": "Forlæsninger/Forlæsning 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md",
+                "file": "Forlæsninger/Forlæsning 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md"
+                "file": "Forlæsninger/Forlæsning 22.md"
               }
             }
           },
@@ -205,15 +205,21 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "1fd073094f185181",
+  "active": "2ec069fb737c9305",
   "lastOpenFiles": [
+    "Afleveringer/Aflevering 12.md",
+    "Forlæsninger/Forlæsning 20.md",
+    "Forlæsninger/Forlæsning 19.md",
+    "Forlæsninger/Forlæsning 21.md",
+    "Attachments/Aflevering 12.png",
+    "Afleveringer/Aflevering 11.md",
+    "HjælpeMidler/Gamle EksamensSæt.md",
     "Attachments/eksmaen vinter 20122013 opgave 2.png",
     "Attachments/387463604_206033075797241_8189001792467453724_n 1.jpg",
     "Attachments/387463604_206033075797241_8189001792467453724_n.jpg",
     "TØ/Tø uge 5.md",
     "TØ/Tø uge 4.md",
     "TØ/Tø uge 3.md",
-    "HjælpeMidler/Gamle EksamensSæt.md",
     "R scripts/Java scripts/out/production/Java scripts/Main.class",
     "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
     "Kapitel 3/3.1 Basic Concepts.md",
@@ -232,27 +238,20 @@
     "Attachments/Tø uge 12 vinter 20182019.png",
     "R scripts/2 sidet hypotesetest.R~",
     "Attachments/Tø uge 12 sommer 2019 opgave 6.png",
-    "Afleveringer/Aflevering 11.md",
     "Forlæsninger/Forlæsning 22.md",
     "TØ/Tø Uge 11.md",
-    "Forlæsninger/Forlæsning 20.md",
     "Forlæsninger/Forlæsning 17.md",
     "Forlæsninger/Forlæsning 18.md",
-    "Forlæsninger/Forlæsning 19.md",
     "Kapitel 8/8.5 Linear Regression.md",
     "Attachments/Coeffecient determination.png",
     "Attachments/Simple linear regression.png",
     "Attachments/Simple linear regression model.png",
     "Kapitel 8/8.4 Hypothesis Testing.md",
-    "Attachments/Likelihood ratio tests.png",
-    "Attachments/Likelihood ratio test for simple hypothesis.png",
-    "Forlæsninger/Forlæsning 21.md",
     "TØ/Tø uge 6.md",
     "TØ/Tø Uge 10.md",
     "TØ/Tø uge 9.md",
     "Afleveringer/Aflevering 10.md",
     "Afleveringer/Aflevering 9.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
