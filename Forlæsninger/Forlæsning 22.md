@@ -19,6 +19,7 @@ W= \frac{\bar X  -  \mu_{0}}{\frac{S}{\sqrt{n}}}
 $$
 er P - Værdi = $2(1 - t(|w|))$
 
+
 for:
 $$
 W=\sqrt{n}\frac{\bar X  -  \mu_{0}}{\sigma} 

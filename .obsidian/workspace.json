@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7949dace61eca523",
+        "id": "5c01e7f429a393a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1fd073094f185181",
+            "id": "2ec069fb737c9305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+=======
+                "file": "Forlæsninger/Forlæsning 22.md",
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+=======
+                "file": "Forlæsninger/Forlæsning 22.md",
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+=======
+                "file": "Forlæsninger/Forlæsning 22.md",
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md"
+=======
+                "file": "Forlæsninger/Forlæsning 22.md"
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
               }
             }
           },
@@ -205,8 +221,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "1fd073094f185181",
+  "active": "2ec069fb737c9305",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Attachments/Theorem 11.2.png",
     "Attachments/Positive recurrent and nullrecurrent state.png",
     "Attachments/Theorem about Finite Markov Chains.png",
@@ -221,31 +238,60 @@
     "Afleveringer/Aflevering 11.md",
     "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
     "Kapitel 11",
+=======
+    "Afleveringer/Aflevering 12.md",
+    "Forlæsninger/Forlæsning 20.md",
+    "Forlæsninger/Forlæsning 19.md",
+    "Forlæsninger/Forlæsning 21.md",
+    "Attachments/Aflevering 12.png",
+    "Afleveringer/Aflevering 11.md",
+    "HjælpeMidler/Gamle EksamensSæt.md",
+    "Attachments/eksmaen vinter 20122013 opgave 2.png",
+    "Attachments/387463604_206033075797241_8189001792467453724_n 1.jpg",
+    "Attachments/387463604_206033075797241_8189001792467453724_n.jpg",
+    "TØ/Tø uge 5.md",
+    "TØ/Tø uge 4.md",
+    "TØ/Tø uge 3.md",
+    "R scripts/Java scripts/out/production/Java scripts/Main.class",
+    "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
+    "Kapitel 3/3.1 Basic Concepts.md",
+    "Kapitel 2/2.1 Counting.md",
+    "Kapitel 1/1.3 Random Experrments and probabilities.md",
+    "R scripts/Java scripts/out/production/Java scripts",
+    "R scripts/Java scripts/out/production",
+    "R scripts/Java scripts/out",
+    "R scripts/Java scripts/Main.java",
+    "R scripts/Java scripts",
+    "R scripts/Computation of EX and Var for discrete.R",
+    "Attachments/Vinter 20122013 opgave 1.png",
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
     "TØ/Tø uge 12.md",
     "R scripts/Workspace.R~",
     "R scripts/Workspace.R",
     "R scripts/2 sidet hypotesetest.R~",
+<<<<<<< HEAD
     "R scripts/2 sidet hypotesetest.R",
     "R scripts/Estimereing af middelværdi konfidensintervaller.R",
+=======
+    "Attachments/Tø uge 12 sommer 2019 opgave 6.png",
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
     "Forlæsninger/Forlæsning 22.md",
     "TØ/Tø Uge 11.md",
-    "Forlæsninger/Forlæsning 20.md",
     "Forlæsninger/Forlæsning 17.md",
     "Forlæsninger/Forlæsning 18.md",
-    "Forlæsninger/Forlæsning 19.md",
     "Kapitel 8/8.5 Linear Regression.md",
     "Kapitel 8/8.4 Hypothesis Testing.md",
+<<<<<<< HEAD
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 21.md",
+=======
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
     "TØ/Tø uge 6.md",
-    "TØ/Tø uge 5.md",
-    "HjælpeMidler/solutions_to_probability_book.pdf",
-    "R scripts/Find Theta and Sigma for observations.R",
-    "R scripts",
     "TØ/Tø Uge 10.md",
     "TØ/Tø uge 9.md",
     "Afleveringer/Aflevering 10.md",
     "Afleveringer/Aflevering 9.md",
+<<<<<<< HEAD
     "TØ/Tø uge 3.md",
     "Untitled.md",
     "Kapitel 8/8.2 Point Estimation.md",
@@ -253,6 +299,8 @@
     "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
     "Kapitel 3/3.1 Basic Concepts.md",
     "Forlæsninger/Forlæsning 9.md",
+=======
+>>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
