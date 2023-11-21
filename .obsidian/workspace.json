@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TØ/Tø uge 12.md",
+                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TØ/Tø uge 12.md",
+                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TØ/Tø uge 12.md",
+                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TØ/Tø uge 12.md"
+                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -207,15 +207,26 @@
   },
   "active": "1fd073094f185181",
   "lastOpenFiles": [
+    "Attachments/Theorem 11.2.png",
+    "Attachments/Positive recurrent and nullrecurrent state.png",
+    "Attachments/Theorem about Finite Markov Chains.png",
+    "Attachments/Limiting Distributions.png",
+    "Attachments/Mean Return Times.png",
+    "Attachments/Mean Hitting TImes.png",
+    "Attachments/Absorption Probabilities.png",
+    "Attachments/finite irreducible markov chain aperiodic if.png",
+    "Attachments/If i,j communicate the di=dj.png",
+    "Attachments/Definition for period state and aperiod state.png",
+    "Attachments/Probability of returning to state i for recurrent and transient state.png",
+    "Afleveringer/Aflevering 11.md",
+    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+    "Kapitel 11",
+    "TØ/Tø uge 12.md",
     "R scripts/Workspace.R~",
     "R scripts/Workspace.R",
-    "Attachments/Tø uge 12 vinter 20182019.png",
     "R scripts/2 sidet hypotesetest.R~",
     "R scripts/2 sidet hypotesetest.R",
     "R scripts/Estimereing af middelværdi konfidensintervaller.R",
-    "Attachments/Tø uge 12 sommer 2019 opgave 6.png",
-    "Afleveringer/Aflevering 11.md",
-    "TØ/Tø uge 12.md",
     "Forlæsninger/Forlæsning 22.md",
     "TØ/Tø Uge 11.md",
     "Forlæsninger/Forlæsning 20.md",
@@ -223,17 +234,9 @@
     "Forlæsninger/Forlæsning 18.md",
     "Forlæsninger/Forlæsning 19.md",
     "Kapitel 8/8.5 Linear Regression.md",
-    "Attachments/Coeffecient determination.png",
-    "Attachments/Simple linear regression.png",
-    "Attachments/Simple linear regression model.png",
     "Kapitel 8/8.4 Hypothesis Testing.md",
-    "Attachments/Likelihood ratio tests.png",
-    "Attachments/Likelihood ratio test for simple hypothesis.png",
-    "Attachments/Likelihood function for random samples.png",
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 21.md",
-    "Attachments/table 8.4 - one sided.png",
-    "Attachments/table 8.3 one sided.png",
     "TØ/Tø uge 6.md",
     "TØ/Tø uge 5.md",
     "HjælpeMidler/solutions_to_probability_book.pdf",
@@ -242,17 +245,14 @@
     "TØ/Tø Uge 10.md",
     "TØ/Tø uge 9.md",
     "Afleveringer/Aflevering 10.md",
-    "Attachments/8_10_overviewCIs.pdf",
     "Afleveringer/Aflevering 9.md",
     "TØ/Tø uge 3.md",
-    "HjælpeMidler",
     "Untitled.md",
     "Kapitel 8/8.2 Point Estimation.md",
     "Kapitel 8/8.3 Interval estimation (Confidence Intervals).md",
     "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
     "Kapitel 3/3.1 Basic Concepts.md",
     "Forlæsninger/Forlæsning 9.md",
-    "Kapitel 4/4.1 Continuous Random Variables and their Distributions.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
