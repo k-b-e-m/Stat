@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TØ/Tø uge 12.md",
+                "file": "Afleveringer/Aflevering 12.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Chapter1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TØ/Tø uge 12.md",
+                "file": "Afleveringer/Aflevering 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TØ/Tø uge 12.md",
+                "file": "Afleveringer/Aflevering 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TØ/Tø uge 12.md"
+                "file": "Afleveringer/Aflevering 12.md"
               }
             }
           },
@@ -179,10 +179,13 @@
   },
   "active": "461c27d5ed7dfe9a",
   "lastOpenFiles": [
-    "R scripts/Find Theta and Sigma for observations.R~",
     "R scripts/Workspace.R~",
-    "Forlæsninger/Forlæsning 20.md",
+    "Attachments/Aflevering 12 - beskrivelse.png",
+    "Afleveringer/Aflevering 11.md",
+    "Afleveringer/Aflevering 12.md",
     "TØ/Tø uge 12.md",
+    "R scripts/Find Theta and Sigma for observations.R~",
+    "Forlæsninger/Forlæsning 20.md",
     "Attachments/Tø uge 12 vinter 20202021 opgave 7.png",
     "Attachments/Tø uge 12 sommer 2018 opgave 5.png",
     "Attachments/Tø uge 12 vinter 20192020 opgave 5.png",
