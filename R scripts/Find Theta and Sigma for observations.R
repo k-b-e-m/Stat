@@ -46,11 +46,11 @@ higher = barX -zp*(SampleS/sqrt(n))
 lower = barX + zp*(SampleS/sqrt(n))
 
 #Find the mean with unkown mean and variance normal distribution
-  alpha = 0.1
-  sampleMean = 35.8
-  S2 = 12.5
-  S = sqrt(12.5)
-  n = 36
+  alpha = 0.05
+  sampleMean = 684/175
+  S2 = 0.2485
+  S = 0.67
+  n = 7
   qt = qt(alpha/2,n-1)
   lower = sampleMean -(qt *(S/sqrt(n)))
   higher = sampleMean +( qt*(S/sqrt(n)))

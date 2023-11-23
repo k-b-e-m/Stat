@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c01e7f429a393a1",
+        "id": "aa8ed432155e52a5",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec069fb737c9305",
+            "id": "461c27d5ed7dfe9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
-=======
-                "file": "Forlæsninger/Forlæsning 22.md",
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
+                "file": "TØ/Tø uge 12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#Chapter1",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -71,19 +66,7 @@
             }
           },
           {
-            "id": "68c62fef53db82d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TØ/Tø Uge 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a71dbd96daa946e",
+            "id": "3ab8313ddf7ec985",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "27b69dd067cc9828",
@@ -110,11 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
-=======
-                "file": "Forlæsninger/Forlæsning 22.md",
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
+                "file": "TØ/Tø uge 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
-=======
-                "file": "Forlæsninger/Forlæsning 22.md",
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
+                "file": "TØ/Tø uge 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,16 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Kapitel 11/11.2 Discrete-Time Markov Chains.md"
-=======
-                "file": "Forlæsninger/Forlæsning 22.md"
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
+                "file": "TØ/Tø uge 12.md"
               }
             }
           },
           {
-            "id": "f884d77b214e55d1",
+            "id": "96c555f568817b13",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -177,26 +148,10 @@
             }
           },
           {
-            "id": "60bd09eb63d3aa26",
+            "id": "8c94793e6864164d",
             "type": "leaf",
             "state": {
               "type": "mathpad-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "15208083bb70b1c8",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
-          },
-          {
-            "id": "b90f74bcbf68c7b4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
@@ -205,10 +160,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "mathpad:Open Mathpad": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,92 +174,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "mathpad:Open Mathpad": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2ec069fb737c9305",
+  "active": "461c27d5ed7dfe9a",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Attachments/Theorem 11.2.png",
-    "Attachments/Positive recurrent and nullrecurrent state.png",
-    "Attachments/Theorem about Finite Markov Chains.png",
-    "Attachments/Limiting Distributions.png",
-    "Attachments/Mean Return Times.png",
-    "Attachments/Mean Hitting TImes.png",
-    "Attachments/Absorption Probabilities.png",
-    "Attachments/finite irreducible markov chain aperiodic if.png",
-    "Attachments/If i,j communicate the di=dj.png",
-    "Attachments/Definition for period state and aperiod state.png",
-    "Attachments/Probability of returning to state i for recurrent and transient state.png",
-    "Afleveringer/Aflevering 11.md",
-    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
-    "Kapitel 11",
-=======
-    "Afleveringer/Aflevering 12.md",
-    "Forlæsninger/Forlæsning 20.md",
-    "Forlæsninger/Forlæsning 19.md",
-    "Forlæsninger/Forlæsning 21.md",
-    "Attachments/Aflevering 12.png",
-    "Afleveringer/Aflevering 11.md",
-    "HjælpeMidler/Gamle EksamensSæt.md",
-    "Attachments/eksmaen vinter 20122013 opgave 2.png",
-    "Attachments/387463604_206033075797241_8189001792467453724_n 1.jpg",
-    "Attachments/387463604_206033075797241_8189001792467453724_n.jpg",
-    "TØ/Tø uge 5.md",
-    "TØ/Tø uge 4.md",
-    "TØ/Tø uge 3.md",
-    "R scripts/Java scripts/out/production/Java scripts/Main.class",
-    "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
-    "Kapitel 3/3.1 Basic Concepts.md",
-    "Kapitel 2/2.1 Counting.md",
-    "Kapitel 1/1.3 Random Experrments and probabilities.md",
-    "R scripts/Java scripts/out/production/Java scripts",
-    "R scripts/Java scripts/out/production",
-    "R scripts/Java scripts/out",
-    "R scripts/Java scripts/Main.java",
-    "R scripts/Java scripts",
-    "R scripts/Computation of EX and Var for discrete.R",
-    "Attachments/Vinter 20122013 opgave 1.png",
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
-    "TØ/Tø uge 12.md",
-    "R scripts/Workspace.R~",
-    "R scripts/Workspace.R",
-    "R scripts/2 sidet hypotesetest.R~",
-<<<<<<< HEAD
-    "R scripts/2 sidet hypotesetest.R",
-    "R scripts/Estimereing af middelværdi konfidensintervaller.R",
-=======
-    "Attachments/Tø uge 12 sommer 2019 opgave 6.png",
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
-    "Forlæsninger/Forlæsning 22.md",
-    "TØ/Tø Uge 11.md",
-    "Forlæsninger/Forlæsning 17.md",
-    "Forlæsninger/Forlæsning 18.md",
-    "Kapitel 8/8.5 Linear Regression.md",
-    "Kapitel 8/8.4 Hypothesis Testing.md",
-<<<<<<< HEAD
     "R scripts/Find Theta and Sigma for observations.R~",
-    "Forlæsninger/Forlæsning 21.md",
-=======
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
-    "TØ/Tø uge 6.md",
-    "TØ/Tø Uge 10.md",
-    "TØ/Tø uge 9.md",
-    "Afleveringer/Aflevering 10.md",
-    "Afleveringer/Aflevering 9.md",
-<<<<<<< HEAD
-    "TØ/Tø uge 3.md",
+    "R scripts/Workspace.R~",
+    "Forlæsninger/Forlæsning 20.md",
+    "TØ/Tø uge 12.md",
+    "Attachments/Tø uge 12 vinter 20202021 opgave 7.png",
+    "Attachments/Tø uge 12 sommer 2018 opgave 5.png",
+    "Attachments/Tø uge 12 vinter 20192020 opgave 5.png",
+    "Forlæsninger/Forlæsning 23.md",
+    "Forlæsninger/Forlæsning 22.md",
+    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+    "Kapitel 1/1.2. Set Theory.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "Kapitel 8/8.2 Point Estimation.md",
-    "Kapitel 8/8.3 Interval estimation (Confidence Intervals).md",
-    "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
-    "Kapitel 3/3.1 Basic Concepts.md",
-    "Forlæsninger/Forlæsning 9.md",
-=======
->>>>>>> 42cc524c19f88b1013bfe60cebc0c671e19f3868
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Attachments/Definition for independence between 3 events.png",
+    "Attachments/Inclusion-Exclusion principle for n finite sets.png",
+    "Tester/Test.md",
+    "Attachments/Diagram 1.svg",
+    "Diagram.svg",
+    "Tester/Drawing 2023-09-05 20.59.43.excalidraw.md",
+    "Kapitel 1/1.3 Random Experrments and probabilities.md"
   ]
 }

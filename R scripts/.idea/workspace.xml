@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ac90b06-b8bf-4109-8138-a4eba02026e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/community-plugins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Afleveringer/Aflevering 11.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Afleveringer/Aflevering 11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 20.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 20.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 21.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rpackages.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Computation of EX and Var for discrete.R" beforeDir="false" afterPath="$PROJECT_DIR$/Computation of EX and Var for discrete.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find Theta and Sigma for observations.R" beforeDir="false" afterPath="$PROJECT_DIR$/Find Theta and Sigma for observations.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace.R" beforeDir="false" afterPath="$PROJECT_DIR$/Workspace.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 12.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 12.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kris6/Desktop/Stat/Stat/R scripts&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/kbem/Desktop/obsidian/Stat/R scripts",
+    "settings.editor.selected.configurable": "org.jetbrains.r.configuration.RSettingsProjectConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
 </project>

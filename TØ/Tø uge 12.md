@@ -53,3 +53,61 @@ accepted = abs(W)<=tfunc
  Giver os 1.49
  Derved vil den ikke godkende 2.3.
  ER DETTE RIGTIGT? VIRKER STRANGE.
+___
+Del 2:
+![[Tø uge 12 vinter 20192020 opgave 5.png]]
+![[covariance.png]]
+$$
+\begin{align}
+Cov(X_{i},\bar X) = E[X_{i}\bar X]  - \theta \cdot \bar X 
+\end{align}
+
+$$
+___
+![[Tø uge 12 sommer 2018 opgave 5.png]]
+
+1)
+[[table 8.2 - two sided.png]]
+Udfra dette table kan vi finde test statistik:
+$$
+W = \frac{\bar X  -  \mu_{0}}{\frac{S}{\sqrt{n}}}
+$$
+I vores tilfælde:
+$$
+\bar X = \frac{1}{7}\cdot 3.93 + 3.41  +  3.08  +  4.72  +  3.37  +  4.03  +  4.82 = \frac{684}{175} \approx 3.9
+$$
+
+![[Sample Variance and Sample Standard deviation.png]]
+$S² = \frac{1}{6}(\Sigma_{k=1}^{7} X_{k} - 7\bar X)² = 0.2485$ 
+$S = \sqrt{0.2485} = 0.4985$
+S2 er regnet forkert benyt R: S=0.67
+Derved er:
+$$
+W=\frac{\frac{684}{175} - 4}{\frac{0.67}{\sqrt{7}}} = -0.36
+$$
+for at acceptere den med et signifikantsniveau på 0.05 skal den altså opfylde:
+$$
+\begin{align}
+| - 0.36|\leq t_{\frac{0.05}{2},6}\\
+t_{\frac{0.05}{2},6}= 2.44
+\end{align}
+
+$$
+regnet ved hjælp af R
+```R
+qt(1 - 0.5/2,6)
+```
+
+Derved er den accepteret ved et signifikantsniveau på 0.05
+
+2)
+[[Forlæsning 20]]
+$$
+[\bar X  -  t_\frac{a}{2,n -1 }\frac{S}{\sqrt{n}},\bar X   +   t_\frac{a}{2,n -1 }\frac{S}{\sqrt{n}}]
+$$
+Ved brug af R script:
+$$[3.28,4.52]$$
+
+
+___
+![[Tø uge 12 vinter 20202021 opgave 7.png]]
