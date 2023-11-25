@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +176,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "461c27d5ed7dfe9a",
+  "active": "8c94793e6864164d",
   "lastOpenFiles": [
     "R scripts/Workspace.R~",
     "Attachments/Aflevering 12 - beskrivelse.png",
