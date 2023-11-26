@@ -62,3 +62,104 @@ Var(X)  +  0 \Rightarrow\\
 \frac{2}{9} + 0
 \end{align}
 $$
+___
+![[Sommer 2023 opgave 1.png]]
+
+
+
+___
+![[Sommer 2023 opgave 2.png]]
+
+___
+![[Sommer 2023 opgave 3 del 1.png]]
+![[Sommer 2023 opgave 3 del 2.png]]
+
+___
+
+![[Sommer 2023 opgave 4.png]]
+___
+![[Sommer 2023 Opgave 5.png]]
+___
+![[Sommer 2023 opgave 6.png]]
+___
+![[Sommer 2023 opgave 7.png]]
+___
+![[Sommer 2023 opgave 8.png]]
+___
+![[Vinter 20172018 opgave 1.png]]
+
+1)
+For udregning af P(X<0)
+$$
+P(X<0) = P(X=1) + P(X=2) = 0.3 + 0.5 =0.8
+$$
+Derved er P(X<0) = 0.8
+
+Var(X)
+![[Computation of variance.png]]
+![[Law of unconsious statistician (LOTUS).png]]
+$$
+E[X^{2}] = 0^{2} \cdot 0.2  + 1^{2}\cdot0.3  +  2^{2}\cdot 0.5 = 2.3
+$$
+$$
+E[X] =  0 \cdot 0.2  + 1 \cdot 0.3  +  2\cdot 0.5 =1.3 
+$$
+$Var(X) = 2.3  -  1.3^{2} = 0.61$ 
+___
+2)
+For udregning af $P(X<2,Y>1)$
+Eftersom de er ufhængige kan vi benytte os af defination 3.2
+![[definition 3.2 independent random variables.png]]
+Derved har vi nu at vi skal finde:
+$$
+P(X<2,Y>1) = P(X<2)P(Y>1)
+$$
+Vi har først for $P(X<2)$
+$$
+P(X<2) = P(X=1)  +  P(X=0) = 0.5
+$$
+$$
+P(Y>1) = P(Y=2) = 0.3
+$$
+$P(X<2,Y>1) = 0.5 \cdot 0.3 = 0.15$
+$$
+P(\{X<2\}\cup \{Y<2\}) = 0.5 (0.3 + 0.4) = 0.35
+$$
+___
+3)
+Beregn covariance $Cov(2X - 5Y,7X + 4Y + 1)$
+![[Lemma 5.3 properties of covariance.png]]
+$$
+\begin{align}
+Cov(2X - 5Y,7X + 4Y + 1) \Rightarrow &&\text{regel 6}\\
+Cov(2X,7X + 4Y + 1)  +   Cov( - 5Y,7X + 4Y + 1) \Rightarrow &&\text{regel 4}\\
+2Cov(X,7X + 4Y + 1) +  - 5Cov(Y,7X + 4Y + 1) \Rightarrow &&\text{regel 3}\\
+2Cov(7X + 4Y + 1,X) +  - 5Cov(7X + 4Y + 1,Y) \Rightarrow &&\text{Regel 6}\\
+2Cov(7X,X)  + 2Cov(4Y + 1,X)  +   - 5Cov(7X,Y)  +  - 5Cov(4Y + 1,Y) \Rightarrow &&\text{regel 4}\\
+14Cov(X,X)  + 8Cov(Y + 1,X)  +   - 35Cov(X,Y)  +  - 20Cov(Y + 1,Y)\Rightarrow &&\text{regel 5}\\
+14Cov(X,X)  + 8Cov(Y,X)  +   - 35Cov(X,Y)  +  - 20Cov(Y,Y) \Rightarrow &&\text{regel 2}\\
+14Cov(X,X)  -20Cov(Y,Y) \Rightarrow &&\text{regel 1}\\
+14Var(X)  - 20Var(Y) = 14\cdot 0.61  - ()
+\end{align}
+$$
+
+$$
+Var(Y) = E[Y^{2}] - E[Y]^{2}
+$$
+$$
+E[Y^{2}] = 1.6
+$$
+$$
+E[Y]= 1
+$$
+$Var(Y) = 1 .6  - 1 =0.6$
+
+For:
+$$
+14Var(X)  -  20Var(Y) = 14\cdot 0.61  -20\cdot 0.6  =  - 3,46 
+$$  ___
+![[Attachments/Vinter 20172018 Opgave 2.png]] 
+
+1)
+Beregn $E[Y]$ 
+

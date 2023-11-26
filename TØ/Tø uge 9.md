@@ -28,7 +28,7 @@ $$
 E[Ye^{YX}] = \int_{0}^{1}\int_{0}^{1}y\cdot e^{yx} \cdot 1 dx dy =\int_{0}^{1} e^{y}-1 dy = e-2 \approx 0.71
 $$
 ___
-![[vinter 20172018 opgave 2.png]]
+![[Attachments/vinter 20172018 opgave 2.png]]
 1)
 ![[Expected value for continous random variable.png]]
 $$

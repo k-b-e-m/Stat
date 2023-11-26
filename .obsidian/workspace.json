@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Afleveringer/Aflevering 12.md",
+                "file": "HjælpeMidler/Gamle EksamensSæt.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "27b69dd067cc9828",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Afleveringer/Aflevering 12.md",
+                "file": "HjælpeMidler/Gamle EksamensSæt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Afleveringer/Aflevering 12.md",
+                "file": "HjælpeMidler/Gamle EksamensSæt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Afleveringer/Aflevering 12.md"
+                "file": "HjælpeMidler/Gamle EksamensSæt.md"
               }
             }
           },
@@ -160,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,29 +177,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c94793e6864164d",
+  "active": "461c27d5ed7dfe9a",
   "lastOpenFiles": [
-    "R scripts/Workspace.R~",
-    "Attachments/Aflevering 12 - beskrivelse.png",
-    "Afleveringer/Aflevering 11.md",
+    "Attachments/Vinter 20172018 Opgave 2.png",
+    "Attachments/Vinter 20172018 opgave 1.png",
+    "Attachments/Sommer 2023 opgave 8.png",
+    "Attachments/Sommer 2023 opgave 7.png",
+    "Attachments/Sommer 2023 opgave 6.png",
+    "Attachments/Sommer 2023 Opgave 5.png",
+    "Attachments/Sommer 2023 opgave 4.png",
+    "Attachments/Sommer 2023 opgave 3 del 2.png",
+    "Attachments/Sommer 2023 opgave 3 del 1.png",
+    "Attachments/Sommer 2023 opgave 2.png",
+    "Attachments/Sommer 2023 opgave 1.png",
+    "Forlæsninger/Forlæsning 24.md",
     "Afleveringer/Aflevering 12.md",
+    "R scripts/Workspace.R~",
+    "Afleveringer/Aflevering 11.md",
     "TØ/Tø uge 12.md",
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 20.md",
-    "Attachments/Tø uge 12 vinter 20202021 opgave 7.png",
-    "Attachments/Tø uge 12 sommer 2018 opgave 5.png",
-    "Attachments/Tø uge 12 vinter 20192020 opgave 5.png",
     "Forlæsninger/Forlæsning 23.md",
     "Forlæsninger/Forlæsning 22.md",
     "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
     "Kapitel 1/1.2. Set Theory.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Attachments/Definition for independence between 3 events.png",
-    "Attachments/Inclusion-Exclusion principle for n finite sets.png",
     "Tester/Test.md",
-    "Attachments/Diagram 1.svg",
-    "Diagram.svg",
     "Tester/Drawing 2023-09-05 20.59.43.excalidraw.md",
     "Kapitel 1/1.3 Random Experrments and probabilities.md"
   ]
