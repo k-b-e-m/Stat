@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md",
+                "file": "Afleveringer/Aflevering 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md",
+                "file": "Afleveringer/Aflevering 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md",
+                "file": "Afleveringer/Aflevering 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HjælpeMidler/Gamle EksamensSæt.md"
+                "file": "Afleveringer/Aflevering 13.md"
               }
             }
           },
@@ -177,8 +176,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "461c27d5ed7dfe9a",
+  "active": "617836b978aa8f65",
   "lastOpenFiles": [
+    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+    "Afleveringer/Aflevering 13.md",
+    "Attachments/Diagram 1.svg.xml",
+    "Attachments/Diagram 1.svg",
+    "Attachments/Aflevering 13.png",
+    "HjælpeMidler/Gamle EksamensSæt.md",
     "Attachments/Vinter 20172018 Opgave 2.png",
     "Attachments/Vinter 20172018 opgave 1.png",
     "Attachments/Sommer 2023 opgave 8.png",
@@ -187,9 +192,6 @@
     "Attachments/Sommer 2023 Opgave 5.png",
     "Attachments/Sommer 2023 opgave 4.png",
     "Attachments/Sommer 2023 opgave 3 del 2.png",
-    "Attachments/Sommer 2023 opgave 3 del 1.png",
-    "Attachments/Sommer 2023 opgave 2.png",
-    "Attachments/Sommer 2023 opgave 1.png",
     "Forlæsninger/Forlæsning 24.md",
     "Afleveringer/Aflevering 12.md",
     "R scripts/Workspace.R~",
@@ -199,7 +201,6 @@
     "Forlæsninger/Forlæsning 20.md",
     "Forlæsninger/Forlæsning 23.md",
     "Forlæsninger/Forlæsning 22.md",
-    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
     "Kapitel 1/1.2. Set Theory.md",
     "Untitled 1.md",
     "Untitled.md",
