@@ -1,0 +1,2 @@
+![[Matrix multiplikationø.png]]
+
