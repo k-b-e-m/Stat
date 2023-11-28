@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8ed432155e52a5",
+        "id": "b6fd788fcbaefcbf",
         "type": "tabs",
         "children": [
           {
-            "id": "461c27d5ed7dfe9a",
+            "id": "55b39799917fd21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md",
+                "file": "TØ/Tø uge 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md",
+                "file": "TØ/Tø uge 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md",
+                "file": "TØ/Tø uge 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md"
+                "file": "TØ/Tø uge 13.md"
               }
             }
           },
@@ -176,30 +176,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c94793e6864164d",
+  "active": "617836b978aa8f65",
   "lastOpenFiles": [
-    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
-    "Afleveringer/Aflevering 13.md",
-    "Attachments/Diagram 1.svg.xml",
-    "Attachments/Diagram 1.svg",
-    "Attachments/Aflevering 13.png",
+    "HjælpeMidler/solutions_to_probability_book.pdf",
+    "TØ/Tø uge 13.md",
+    "Attachments/Vinter 20222023 opgave 9.png",
+    "Attachments/Vinter 20182019 -opgave 7(1).png",
+    "Attachments/Tø uge 13 Opgave 5.png",
+    "Attachments/Tø uge 13 Øvelse A.png",
+    "Attachments/Sommer 2019 opgave 8(1).png",
+    "Attachments/Vinter 20182019 opgave 4.png",
+    "Attachments/Tø uge 13 problem 13.png",
+    "Attachments/Vinter 20202021 opgave 7.png",
     "HjælpeMidler/Gamle EksamensSæt.md",
-    "Attachments/Vinter 20172018 Opgave 2.png",
-    "Attachments/Vinter 20172018 opgave 1.png",
-    "Attachments/Sommer 2023 opgave 8.png",
-    "Attachments/Sommer 2023 opgave 7.png",
-    "Attachments/Sommer 2023 opgave 6.png",
-    "Attachments/Sommer 2023 Opgave 5.png",
-    "Attachments/Sommer 2023 opgave 4.png",
-    "Attachments/Sommer 2023 opgave 3 del 2.png",
+    "Forlæsninger/Forlæsning 25.md",
+    "Attachments/Example 11.5.png",
+    "Forlæsninger/Forlæsning 23.md",
     "Forlæsninger/Forlæsning 24.md",
+    "Afleveringer/Aflevering 13.md",
     "Afleveringer/Aflevering 12.md",
     "R scripts/Workspace.R~",
+    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+    "Attachments/Diagram 1.svg.xml",
+    "Attachments/Diagram 1.svg",
     "Afleveringer/Aflevering 11.md",
     "TØ/Tø uge 12.md",
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 20.md",
-    "Forlæsninger/Forlæsning 23.md",
     "Forlæsninger/Forlæsning 22.md",
     "Kapitel 1/1.2. Set Theory.md",
     "Untitled 1.md",
