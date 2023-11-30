@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TØ/Tø uge 13.md",
+                "file": "TØ/TØ uge 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TØ/Tø uge 13.md",
+                "file": "TØ/TØ uge 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TØ/Tø uge 13.md",
+                "file": "TØ/TØ uge 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TØ/Tø uge 13.md"
+                "file": "TØ/TØ uge 14.md"
               }
             }
           },
@@ -160,12 +160,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "mathpad:Open Mathpad": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,31 +176,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "617836b978aa8f65",
+  "active": "55b39799917fd21e",
   "lastOpenFiles": [
-    "HjælpeMidler/solutions_to_probability_book.pdf",
+    "Afleveringer/Aflevering 12.md",
+    "Afleveringer/Aflevering 13.md",
+    "TØ/TØ uge 14.md",
+    "Attachments/TØ uge 14 vinter 20182019 opgave 5 a.png",
+    "Attachments/TØ uge 14 øvelse C a.png",
+    "Attachments/TØ uge 14 Øvelse A opgave a.png",
+    "R scripts/Workspace.R~",
+    "Attachments/Diagram 2.svg.xml",
+    "Attachments/Diagram 2.svg",
+    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+    "Attachments/Vinter 20182019 opgave.png",
+    "Attachments/TØ uge 14 Øvelse E.png",
+    "Attachments/TØ uge 14 Øvelse D.png",
+    "Attachments/TØ uge 14 Øvelse C.png",
+    "Attachments/Sommer 2019 opgave 8.png",
+    "Attachments/TØ uge 14 Øvelse B.png",
     "TØ/Tø uge 13.md",
-    "Attachments/Vinter 20222023 opgave 9.png",
-    "Attachments/Vinter 20182019 -opgave 7(1).png",
-    "Attachments/Tø uge 13 Opgave 5.png",
-    "Attachments/Tø uge 13 Øvelse A.png",
-    "Attachments/Sommer 2019 opgave 8(1).png",
-    "Attachments/Vinter 20182019 opgave 4.png",
-    "Attachments/Tø uge 13 problem 13.png",
-    "Attachments/Vinter 20202021 opgave 7.png",
+    "TØ/Tø uge 12.md",
+    "HjælpeMidler/solutions_to_probability_book.pdf",
     "HjælpeMidler/Gamle EksamensSæt.md",
     "Forlæsninger/Forlæsning 25.md",
-    "Attachments/Example 11.5.png",
     "Forlæsninger/Forlæsning 23.md",
     "Forlæsninger/Forlæsning 24.md",
-    "Afleveringer/Aflevering 13.md",
-    "Afleveringer/Aflevering 12.md",
-    "R scripts/Workspace.R~",
-    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
     "Attachments/Diagram 1.svg.xml",
-    "Attachments/Diagram 1.svg",
     "Afleveringer/Aflevering 11.md",
-    "TØ/Tø uge 12.md",
     "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 20.md",
     "Forlæsninger/Forlæsning 22.md",

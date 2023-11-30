@@ -48,4 +48,5 @@ For at regne $P(\text{type I error})$ har vi udfra [[8.4 Hypothesis Testing]], u
 $$
 1 - \Phi( - 0.3432) =   0.6342
 $$
+
 Derved har vi en P - værdi på 0.6342
