@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ac90b06-b8bf-4109-8138-a4eba02026e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/community-plugins.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.obsidian/plugins/mathpad/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.obsidian/plugins/mathpad/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.obsidian/plugins/mathpad/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.obsidian/plugins/mathpad/styles.css" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculate Stationary distribution.R" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Workspace.R" beforeDir="false" afterPath="$PROJECT_DIR$/Workspace.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 13.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/TØ uge 14.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/TØ uge 14.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

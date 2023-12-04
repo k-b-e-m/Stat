@@ -8,15 +8,33 @@ c)
 Billede i a
 ___
 ![[TØ uge 14 Øvelse B.png]]
+3
 
+```R
+A = matrix(c(0.5-1, 0.2,0.1,0.4,0.5-1,0.3,1,1,1),3,3,TRUE)  
+b = matrix(c(0,0,1),3,1,TRUE)  
+print(A)  
+print(b)  
+solve(A,b)
+```
 
-
-$$[0.2340426 \; 0.4042553 \; 0.3617021]$$
-Følg med til TØ
+$$[0,234043 0,404255 0,361702]$$
 
 ___
 ![[Sommer 2019 opgave 8.png]]
 Her skulle der kun laves delspørgsmål 2
+
+![[Attachments/Diagram 3.svg]]
+
+
+![[definition of irreducible.png]]
+Den er desuden aperiodisk.
+![[Theorem about Finite Markov Chains.png]]
+Derved er løsningen unique.
+Løsningen findes via script:
+$$
+[0,234043 0,404255 0,361702]
+$$
 
 ___
 ![[TØ uge 14 Øvelse C.png]]

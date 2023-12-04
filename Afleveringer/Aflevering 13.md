@@ -3,7 +3,7 @@
 Det ovenstående tekst beskriver en markovkæde som ser ud som følger:
 
 ![[Attachments/Diagram 1.svg]]
-OvergangsDiagrammet ser desuden ud således:
+Man kan desuden fra denne markovkæde finde overgangsdiagrammet der ser ud således:
 $$
 P = 
 \begin{bmatrix}  
@@ -18,6 +18,7 @@ $$
 For at finde ud af hvor mange der er i 2028 og 2038 kan vi regne det ud således:
 
 ![[get n+1 value for a markov chain. Build upon law of total prob.png]]
+Ved at bruge den ovenstående formel får vi
 $$
 \begin{align*}\\
 \text{2008: } &&              \pi^{(0)}=\begin{bmatrix}0.36,0.64\end{bmatrix}\cdot P^{0} &= \begin{bmatrix}0.36,0.64\end{bmatrix}\\
@@ -28,3 +29,5 @@ $$
 $$
 
 
+Derved er der i 2028 46% Boligejere og 53% boliglejere.
+I 2038 er der 50% boligejere og 50% boliglejere. Her skal det dog siges at der er foretage afrunding til to decimaler.
