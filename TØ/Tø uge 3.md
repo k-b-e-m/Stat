@@ -1,19 +1,25 @@
-f
+
 ![[Tø uge 3 - opgave 1.png]]
 Vi antager at de er uafhængige. Vi ved at chancen af en fejler er $\frac{1}{100}$ . Derved kan vi regne chancen for det ikke fejler ud til at være $P(virker) = 1- \frac{1}{100}$ Det vil sige at chancen for at begge to virker kan udregnes ved $P(begge Dør) = \frac{1}{100} \cdot \frac{1}{100}$.  Vi kan så tage komplementet til dette for at få at mindst en virker: $P(beggeVirker)^{c}= 1-(\frac{1}{100} \cdot \frac{1}{100})= 0.9999$.
+
+___
 
 ![[Tø uge 3 - opgave 3.png]]
 Vi ved at vi har $\frac{1}{2}$ for at få både en krone og plat. Det vil sige at sandsynligheden for at slå 2 ens er $\frac{1}{2}\cdot \frac{1}{2}$, udfra [[Chain rule for conditional probability.png]]. Derved kan vi regne frem til en formel som lyder på følgende:
 $\Sigma_{i=2}^{k} 2\cdot \frac{1}{2}$ Dette eftersom vi ved hvert ekstra kast har 2 muligheder for vi har slået 2 ens og der er 50% chance for at slå den ene eller den anden.
+___
+
 ![[Tø uge 3 - opgave 3-1.png]]
 ![[Tø uge 3 - sætning a.png]]
 
-det er mærkligt
+___
 ![[Tø uge 3 - problem 31.png]]
 $$ \begin{align*} P(T) =& P(T\cap D)+P(T\cap D^c) &&(\text{Law of Total probability}) \\ P(R) =& \frac{1}{200} + \frac{1}{2000} = \frac{11}{2000} \end{align*} $$ $$ \begin{align*} P(D|T) =& \frac{P(T|D)P(D)}{P(T)} <=> &&(\text{Bayes rule}) \\ P(S|R) =& \frac{\frac{1}{100} \cdot \frac{1}{2}}{\frac{11}{2000}} = \frac{10}{11} \end{align*} $$
 [[Bayes rule.png]] [[Law Of Total Probability.png]]
 ![[Tø uge 3 - billede problem 31.png]]
 Ovenstående billede viser tegnet der er tegnet. Benytter sig af [[Chain rule for conditional probability.png]] 
+
+___
 
 ![[Tø uge 3 - problem 34.png]]
 a)
@@ -38,6 +44,8 @@ At spørge hvad sandsynligheden for at der er en guldmønt i den anden skuffe er
 $$P(K_{1}| G) = \frac{P(G|K_{1})P(K_{1})}{P(G|K_{1})P(K_{1)}+ P(G|K_{2})P(K_{2}) + P(G|K_{3)}P(K_{3)}}$$
 
 $$P(K_{1}| G) = \frac{1 \cdot \frac{1}{3}}{1\cdot \frac{1}{3}+ \frac{1}{2}\cdot \frac{1}{3} + 0 \cdot \frac{1}{3}} = \frac{\frac{1}{3}}{\frac{3}{6}} = \frac{2}{3}$$
+___
+
 ![[Tø uge 3 - opgave 1 fra reeksamen 2019.png]]
 $P(B) = 2P(A)$
 $P(C) = 2P(A)$
@@ -47,6 +55,7 @@ Derved kan vi nu at regne ud:
 $P(A) =\frac{1}{7}$
 $P(B) = \frac{2}{7}$
 $P(C) = \frac{4}{7}$
+___
 ![[Tø uge 3 - opgave 3 reeksamen 2019.png]]
 Her tager vi komplementet. Det vil sige vi regner ud hvad chancen er for han taber alle.
 $$\frac{95}{100}^{10} = \frac {6131066257801}{10240000000000} \approx 0.59873693923837890625 $$

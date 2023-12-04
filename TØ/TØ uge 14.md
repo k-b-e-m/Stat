@@ -84,12 +84,59 @@ $$
 ___
 ![[TØ uge 14 Øvelse E.png]]
 
+![[Attachments/Diagram 4.svg]]
+a)
+$$
+P=
+\begin{bmatrix}
+1 - p & p & 0 \\ 
+1 - p & 0 & p \\ 
+1 - p & 0 & p
+\end{bmatrix}
+$$
+b)
+EnergiForbrug
+1 har 1
+2 har 2
+3 har 3
+EnergiIndtag
+1 har 0 
+2 har 2
+3 har 4
+
+For energiforbruget:
+$$
+1\cdot3 (1 - p)  +  2\cdot p  +  3\cdot 2p = energiforbrug
+$$
+For energiIndtag:
+$$
+0\cdot3(1 - p) +  2\cdot p  +  4\cdot 2p = energiIndtag 
+$$
+energiforbrug = enrgiIndtag $\Leftrightarrow p \approx 0.6$
+
+Stationær med denne:
+$[0.400000, 0.240000, 0.360000]$
+Check for svar:
+$0.4\cdot 1 + 2\cdot 0.24 + 3\cdot 0.36 = 1.96$ 
+$0.4\cdot 0 + 2\cdot 0.24 + 4\cdot 0.36 = 1.92$
+Dette vurdere jeg er tæt nok på. Desuden er det meget tæt på den rigtige løsning. Afrundingingen skyldes muligvis at jeg bruger geogebra:
+![[TØ uge 14 - Geogebra insekt.png]]
 ___
 ![[Vinter 20182019 opgave.png]]
 ![[Definition of transient and recurrent.png]]
 a)  ![[TØ uge 14 vinter 20182019 opgave 5 a.png]]
 b)
+
+
+![[definition of irreducible.png]]
+Markovkæden er aperiodic og irreducible.
+Den stationære fordeling kan regnes til:
+Dette giver os søjlevektoren:
+$[0.296296, 0.333333, 0.370370]$
+![[Theorem about Finite Markov Chains.png]]
+Udfra dette ved vi at den stationære er unik. Derved er det også grænsefordelingen.
 ![[Limiting Distributions.png]]
-$0.3703704$
+Ved brug af dette ved vi altså at det $\pi_{3}= lim_{n\rightarrow\infty} P(X_{n}=3|X_{0}=i)= 0.3703704$
+
 
 

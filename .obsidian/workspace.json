@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md",
+                "file": "HjælpeMidler/Gamle EksamensSæt.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md",
+                "file": "HjælpeMidler/Gamle EksamensSæt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md",
+                "file": "HjælpeMidler/Gamle EksamensSæt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Afleveringer/Aflevering 13.md"
+                "file": "HjælpeMidler/Gamle EksamensSæt.md"
               }
             }
           },
@@ -176,45 +177,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "55b39799917fd21e",
+  "active": "b4e51bd26c50d004",
   "lastOpenFiles": [
-    "TØ/TØ uge 14.md",
+    "TØ/Tø Uge 10.md",
+    "TØ/Tø uge 9.md",
+    "TØ/Tø uge 8.md",
+    "TØ/Tø uge 7.md",
+    "TØ/Tø uge 6.md",
+    "TØ/Tø uge 5.md",
+    "TØ/Tø uge 4.md",
     "R scripts/Workspace.R~",
-    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
-    "Attachments/Diagram 3.svg.xml",
-    "Attachments/Diagram 3.svg",
+    "TØ/Tø uge 3.md",
+    "TØ/TØ uge 2.pdf",
+    "TØ/TØ uge 1.pdf",
+    "TØ/TØ uge 14.md",
+    "Attachments/TØ uge 14 - Geogebra insekt.png",
     "R scripts/Calculate Stationary distribution.R~",
-    "R scripts/Calculate Stationary distribution.R",
+    "Afleveringer/Aflevering 13.md",
+    "Afleveringer/Aflevering6.pdf",
+    "Afleveringer/Aflevering5.pdf",
+    "Afleveringer/Aflevering4.pdf",
+    "Afleveringer/Aflevering3.pdf",
+    "Afleveringer/Aflevering2.pdf",
+    "Afleveringer/Aflevering1.pdf",
+    "Attachments/Diagram 4.svg",
+    "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
+    "Attachments/Diagram 3.svg",
     "Forlæsninger/Forlæsning 26.md",
     "HjælpeMidler/Gamle EksamensSæt.md",
     "Afleveringer/Aflevering 12.md",
-    "Afleveringer/Aflevering 13.md",
     "Attachments/TØ uge 14 vinter 20182019 opgave 5 a.png",
     "Attachments/TØ uge 14 øvelse C a.png",
     "Attachments/TØ uge 14 Øvelse A opgave a.png",
-    "Attachments/Diagram 2.svg.xml",
     "Attachments/Diagram 2.svg",
     "Attachments/Vinter 20182019 opgave.png",
     "Attachments/TØ uge 14 Øvelse E.png",
     "Attachments/TØ uge 14 Øvelse D.png",
-    "Attachments/TØ uge 14 Øvelse C.png",
-    "Attachments/Sommer 2019 opgave 8.png",
     "TØ/Tø uge 13.md",
     "TØ/Tø uge 12.md",
-    "HjælpeMidler/solutions_to_probability_book.pdf",
     "Forlæsninger/Forlæsning 25.md",
     "Forlæsninger/Forlæsning 23.md",
     "Forlæsninger/Forlæsning 24.md",
-    "Attachments/Diagram 1.svg.xml",
     "Afleveringer/Aflevering 11.md",
-    "R scripts/Find Theta and Sigma for observations.R~",
     "Forlæsninger/Forlæsning 20.md",
     "Forlæsninger/Forlæsning 22.md",
     "Kapitel 1/1.2. Set Theory.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Tester/Test.md",
-    "Tester/Drawing 2023-09-05 20.59.43.excalidraw.md",
-    "Kapitel 1/1.3 Random Experrments and probabilities.md"
+    "Tester/Test.md"
   ]
 }

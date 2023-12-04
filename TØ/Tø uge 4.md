@@ -172,8 +172,50 @@ $$
 $\frac{3}{8}$ dele i toppen eftersom $P(X=2 \cap X>1)$ kun deler $X=2$ alligevel.
 ___
 ![[Tø uge 4 - problem 11.png]]
-? Følg med til tø
+![[definition 3.9 Poisson distribution.png]]
+Eftersom vi her får at vide at gennemsnittet, er $\frac{1}{6}$ vil det sige at $\lambda$ er $\frac{1}{6}$ for hverdag og $\frac{1}{30}$ for weekend. Dette giver os de to PDF:
+$$
+P_{weekend}(k)=
+\begin{cases}
+\frac{e^{ - \frac{1}{30}}\cdot \frac{1}{30}^{k}}{k!} \text{for }k\in R_{X}
+\end{cases}
+$$
+$$
+P_{Hverdag}(k)=
+\begin{cases}
+\frac{e^{ - \frac{1}{6}}\cdot \frac{1}{6}^{k}}{k!} \text{for }k\in R_{X}
+\end{cases}
+$$
+Sandsynligheden for at der ikke kommer en email inden for 4 timer er komplimenter mængden til at der gør. Derved har vi:
+Udfra expected for poisson ved vi her at EX = $\lambda$ = $\frac{1}{30}$
+$\frac{1}{30} \cdot 240 = \frac{240}{30} = 8$ Derved har vi nu at $\lambda$ bliver 8.
+```R
+dpois(0,8)
+```
+Dette giver os:
+0.0003354626
 
+b)
+![[Bayes rule.png]]
+
+$$
+P(weekday|0) = \frac{P(0|weekday)\cdot P(weekday)}{P(0)}
+$$
+$$
+P(weekday) = \frac{5}{7}
+$$
+P(0|weekday) =
+```R
+dpois(0,10)
+```
+Dette giver os 0.0000453999
+P(0) Regnes ved law of total probability
+![[Law Of Total Probability.png]]
+P(0)= 0.0000453999*5/7 + 0.1353*2/7 = 0.03869965
+Derved har vi:
+$$
+P(weekday|0) = \frac{0.0000453999 \cdot \frac{5}{7}}{0.03869965}= 0.0008379533
+$$
 ___
 
 ![[Tø uge 4 - øvelse A-1.png]]

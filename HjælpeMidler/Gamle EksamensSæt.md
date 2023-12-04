@@ -163,3 +163,30 @@ $$  ___
 1)
 Beregn $E[Y]$ 
 
+![[Expected value for continous random variable.png]]
+$E[Y] = \int_{0}^{1}y\cdot f_{Y}(y) = \frac{5}{12}$
+
+2)
+![[Marginal PDF's of two continuous random variables.png]]
+$$
+f_{X}(x) = \int_{0}^{x} f_{XY}(x,y) = 3x^{2}
+$$
+![[Independence of two random variables.png]]
+Vi tager her et givet tal (0.8,0.5):
+
+
+$$
+2(0.8 + 0.5) = 3(0.8)^{2} \cdot (1 + 2(0.5)  - 3(0.5)^2)
+$$
+$$
+\frac{13}{5} = \frac{12}{5}
+$$
+De er derved ikke ufhængige
+
+c)
+![[Lotus for two continuous random variable.png]]
+$$
+\int_{0}^{1}\int_{0}^{1} xy(2(x + y)) dxdy = \frac{2}{3}
+$$
+___
+
