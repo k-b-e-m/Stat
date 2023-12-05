@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,8 +176,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b4e51bd26c50d004",
+  "active": "55b39799917fd21e",
   "lastOpenFiles": [
+    "R scripts/test.ipynb.tmp",
+    "R scripts/test.ipynb~",
+    "R scripts/test.ipynb",
+    "R scripts/Workspace.R~",
+    "HjælpeMidler/solutions_to_probability_book.pdf",
+    "Kapitel 4/4.1 Continuous Random Variables and their Distributions.md",
+    "HjælpeMidler/Gamle EksamensSæt.md",
+    "Attachments/Vinter 20172018 Opgave 3.png",
     "TØ/Tø Uge 10.md",
     "TØ/Tø uge 9.md",
     "TØ/Tø uge 8.md",
@@ -186,7 +193,6 @@
     "TØ/Tø uge 6.md",
     "TØ/Tø uge 5.md",
     "TØ/Tø uge 4.md",
-    "R scripts/Workspace.R~",
     "TØ/Tø uge 3.md",
     "TØ/TØ uge 2.pdf",
     "TØ/TØ uge 1.pdf",
@@ -197,14 +203,10 @@
     "Afleveringer/Aflevering6.pdf",
     "Afleveringer/Aflevering5.pdf",
     "Afleveringer/Aflevering4.pdf",
-    "Afleveringer/Aflevering3.pdf",
-    "Afleveringer/Aflevering2.pdf",
-    "Afleveringer/Aflevering1.pdf",
     "Attachments/Diagram 4.svg",
     "Kapitel 11/11.2 Discrete-Time Markov Chains.md",
     "Attachments/Diagram 3.svg",
     "Forlæsninger/Forlæsning 26.md",
-    "HjælpeMidler/Gamle EksamensSæt.md",
     "Afleveringer/Aflevering 12.md",
     "Attachments/TØ uge 14 vinter 20182019 opgave 5 a.png",
     "Attachments/TØ uge 14 øvelse C a.png",
@@ -212,7 +214,6 @@
     "Attachments/Diagram 2.svg",
     "Attachments/Vinter 20182019 opgave.png",
     "Attachments/TØ uge 14 Øvelse E.png",
-    "Attachments/TØ uge 14 Øvelse D.png",
     "TØ/Tø uge 13.md",
     "TØ/Tø uge 12.md",
     "Forlæsninger/Forlæsning 25.md",
@@ -222,8 +223,6 @@
     "Forlæsninger/Forlæsning 20.md",
     "Forlæsninger/Forlæsning 22.md",
     "Kapitel 1/1.2. Set Theory.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Tester/Test.md"
+    "Untitled 1.md"
   ]
 }

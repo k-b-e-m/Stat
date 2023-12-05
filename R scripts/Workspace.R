@@ -10,3 +10,10 @@ solve(A,b)
 dpois(0,10)*5/7 + dpois(0,2)*2/7
 
 (0.0000453999  * 5/7)/0.03869965
+
+f <- function (x){
+  return(exp(2*x)*(3*(exp(-3*x))))
+}
+
+integrate(f,0,Inf)
+

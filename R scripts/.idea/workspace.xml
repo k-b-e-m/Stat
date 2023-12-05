@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2ac90b06-b8bf-4109-8138-a4eba02026e1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HjælpeMidler/Gamle EksamensSæt.md" beforeDir="false" afterPath="$PROJECT_DIR$/../HjælpeMidler/Gamle EksamensSæt.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate Stationary distribution.R" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate Stationary distribution.R" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Workspace.R" beforeDir="false" afterPath="$PROJECT_DIR$/Workspace.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TØ/TØ uge 14.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/TØ uge 14.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="R Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>

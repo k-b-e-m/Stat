@@ -190,3 +190,7 @@ $$
 $$
 ___
 
+![[Vinter 20172018 Opgave 3.png]]
+1)
+![[Lotus of continuous random variabæe.png]]
+2)
