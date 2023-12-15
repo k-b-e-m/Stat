@@ -194,3 +194,38 @@ ___
 1)
 ![[Lotus of continuous random variabæe.png]]
 2)
+![[Theorem 4.1.png]]
+![[Theorem 4.1'.png]]
+___
+![[vinter 20172018 Opgave 4.png]]
+![[Likelihood function.png]]
+___
+![[vinter 20172018 opgave 5.png]]
+
+1)
+2)
+![[get n+1 value for a markov chain. Build upon law of total prob.png]]
+___
+![[Vinter 20172018.png]]
+![[definition of irreducible.png]]
+![[finite irreducible markov chain aperiodic if.png]]
+![[Theorem about Finite Markov Chains.png]]
+___
+![[Vinter 20172018 opgave 7.png]]
+
+1)
+![[Chain rule for conditional probability.png]]
+2)
+![[Bayes rule.png]]
+![[Law Of Total Probability.png]]
+___
+![[Vinter 20172018 Opgave 8.png]]
+
+![[Law of total Variance for continous conditional variance.png]]
+![[Expected value for continous random variable.png]]
+
+![[Lemma 5.3 properties of covariance.png]]
+
+![[Sample Variance and Sample Standard deviation.png]]
+![[Theorem 4.1'.png]]
+____

@@ -51,7 +51,59 @@ ___
 ![[Tø Uge 10 Problem 7.png]]
 ![[Unbiased of estimator.png]]
 ![[Bias of a point.png]]
-SPØRG TIL TØ
+
+a)
+
+![[løsning fra 8.2.2.png]]
+eftersom $\mu$ er 0 har vi derved:
+
+$$
+\hat\sigma^{2}=\frac{1}{1}\Sigma_{k=1}^{1}(X_{k} - 0)^{2}
+$$
+$$
+\hat\sigma^{2}=X_{1}^{2}
+$$
+Grundet weak law of large numbers er det en consistent evaluater.
+
+b)
+![[Likelihood function.png]]
+her har vi tidligere defineret $f_{X}(x)$ fra opgaven.
+Så det vil sige at Likelihood function til $X_{1}$ er:
+$$
+\frac{1}{\sqrt{2\pi}\cdot \sigma}e^{ - \frac{x}{2\sigma^{2}}} 
+$$
+Derved får vi Log likelihood til 
+$$log(\frac{1}{\sqrt{2\pi}\cdot \sigma}e^{ - \frac{x^{2}}{2\sigma^{2}}})$$
+c) Vi skal nu finde MLE, dette gør vi ved at differencere og finde det kritiske punkt.
+$$
+
+\log\left(\frac{1}{\sqrt{2\pi}\sigma}\cdot\exp\left(-\frac{x^2}{2\sigma^2}\right)\right)
+
+$$
+Ved log regneregler kan dette omformes til:
+$$
+ - \frac{1}{2}log(2\pi) - log(\sigma) - \frac{x^{2}}{2\cdot\sigma^{2}}
+$$
+Får så at finde MLE tager vi:
+$$
+\frac{dx}{d\sigma}  - \frac{1}{2}log(2\pi) - log(\sigma) - \frac{x^{2}}{2\cdot\sigma^{2}} = 0
+$$
+```Matlab
+syms sigma
+
+syms x
+
+func = -0.5*log(2*pi)-log(sigma)-x^2/(2*sigma^2);
+
+deriviative = diff(func,sigma);
+
+MLE = solve(deriviative==0,sigma);
+
+disp(deriviative)
+
+disp(MLE)
+```
+Ved dette får vi at det er lig med x.
 ___
 ![[Tø Uge 10 eksamen 20192020 opgave 6.png]]
 
@@ -92,9 +144,11 @@ $$
 
 ___
 ![[Tø Uge 10 problem 2.png]]
+![[Bias of a point.png]]
+![[Unbiased of estimator.png]]
 
 
 
 ___
 ![[Tø Uge 10 Problem 3.png]]
-SPRØG TIL TØ
+

@@ -5,10 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ac90b06-b8bf-4109-8138-a4eba02026e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MatLab/Integral.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatLab/Limiting Distributions.asv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonteCarlo Integration.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trylleformlen.asv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trylleformlen.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/core-plugins-migration.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/core-plugins-migration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/plugins/editor-width-slider/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/plugins/editor-width-slider/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/plugins/obsidian-table-generator/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/plugins/obsidian-table-generator/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Afleveringer/Aflevering 10.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Afleveringer/Aflevering 10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Attachments/Vinter 20172018 Opgave 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Attachments/Vinter 20172018 Opgave 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 10.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 13.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 15.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 15.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 16.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 16.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 19.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 20.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 20.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 21.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 22.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 22.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 5.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Forlæsning 5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Forlæsninger/Monte carlo integration.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Forlæsninger/Monte carlo integration.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HjælpeMidler/Gamle EksamensSæt.md" beforeDir="false" afterPath="$PROJECT_DIR$/../HjælpeMidler/Gamle EksamensSæt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kapitel 1/1.3 Random Experrments and probabilities.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Kapitel 1/1.3 Random Experrments and probabilities.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kapitel 1/1.4 Conditional Probability.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Kapitel 1/1.4 Conditional Probability.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kapitel 3/3.1 Basic Concepts.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Kapitel 3/3.1 Basic Concepts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kapitel 4/4.1 Continuous Random Variables and their Distributions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Kapitel 4/4.1 Continuous Random Variables and their Distributions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kapitel 4/4.2 Special Distribution.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Kapitel 4/4.2 Special Distribution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workspace.R" beforeDir="false" afterPath="$PROJECT_DIR$/Workspace.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate Stationary distribution.R" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate Stationary distribution.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/TØ uge 14.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/TØ uge 14.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø Uge 10.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø Uge 10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø Uge 11.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø Uge 11.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 12.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 12.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 13.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 3.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 4.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 5.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 6.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 7.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 8.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TØ/Tø uge 9.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TØ/Tø uge 9.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +60,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="R Script" />
         <option value="Jupyter Notebook" />
+        <option value="R Script" />
       </list>
     </option>
   </component>
@@ -30,20 +72,27 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2YOCFWuVXsokYKllwTztuHmFFVG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/kbem/Desktop/obsidian/Stat/R scripts&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.r.configuration.RSettingsProjectConfigurable&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
 </project>

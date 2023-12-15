@@ -2,13 +2,13 @@
 a) 
 ![[TØ uge 14 Øvelse A opgave a.png]]
 
-b) R = 4,2 T= 1,3,5
+b)  T= 1,3,5, R=2,4
 ![[Definition of transient and recurrent.png]]
 c) 
 Billede i a
 ___
 ![[TØ uge 14 Øvelse B.png]]
-3
+
 
 ```R
 A = matrix(c(0.5-1, 0.2,0.1,0.4,0.5-1,0.3,1,1,1),3,3,TRUE)  
@@ -33,7 +33,7 @@ Den er desuden aperiodisk.
 Derved er løsningen unique.
 Løsningen findes via script:
 $$
-[0,234043 0,404255 0,361702]
+[\frac{3}{8} \frac{19}{56} \frac{2}{7}]
 $$
 
 ___
@@ -67,9 +67,10 @@ $$
 P=
 \begin{bmatrix}
 0.8 && 0.2\\
-0.7 && 0.3
+0.3 && 0.7
 \end{bmatrix}
 $$
+
 $$
 P^{1000000} =
 \begin{bmatrix} 
@@ -94,6 +95,11 @@ P=
 1 - p & 0 & p
 \end{bmatrix}
 $$
+
+Den stationære fordeling for denne giver:
+$\begin{bmatrix}1 - p&& - p^{2} + p&&p^{2}\end{bmatrix}$
+
+
 b)
 EnergiForbrug
 1 har 1
@@ -126,7 +132,7 @@ ___
 ![[Definition of transient and recurrent.png]]
 a)  ![[TØ uge 14 vinter 20182019 opgave 5 a.png]]
 b)
-
+Alle er recurrent
 
 ![[definition of irreducible.png]]
 Markovkæden er aperiodic og irreducible.
@@ -139,4 +145,4 @@ Udfra dette ved vi at den stationære er unik. Derved er det også grænsefordel
 Ved brug af dette ved vi altså at det $\pi_{3}= lim_{n\rightarrow\infty} P(X_{n}=3|X_{0}=i)= 0.3703704$
 
 
-
+![[MSE = VAR + B.png]]
