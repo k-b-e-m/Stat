@@ -93,6 +93,9 @@ Her skal man både bruge den Joint PMF og den marginale, for at kunne finde Cond
 ![[Pasted image 20231211130023.png]]
 ![[Pasted image 20231211130118.png]]
 
+### Sætning A'
+![[Sætning A'-1.png]]
+ugeseddel 9
 ### Theorem 5.2
 Gælder kun hvis X og Y er uafh.
 ![[Pasted image 20231213113613.png]]

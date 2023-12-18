@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forberedelse/Point Estimation.md",
+                "file": "Forberedelse/Markov Chains and Integrals.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forberedelse/Point Estimation.md",
+                "file": "Forberedelse/Markov Chains and Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forberedelse/Point Estimation.md",
+                "file": "Forberedelse/Markov Chains and Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forberedelse/Point Estimation.md"
+                "file": "Forberedelse/Markov Chains and Integrals.md"
               }
             }
           },
@@ -215,14 +215,15 @@
             }
           },
           {
-            "id": "fd579d1027058ae7",
+            "id": "364af0d497602252",
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -243,20 +244,38 @@
   },
   "active": "7a9829a1610fc9fd",
   "lastOpenFiles": [
-    "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
+    "Attachments/Sætning E.png",
+    "Attachments/Sætning D.png",
+    "Forberedelse/Point Estimation, Intervals, Hypothesis Tests and Linear Regression.md",
+    "Attachments/P value.png",
+    "Attachments/P value ugeseddel.png",
+    "Attachments/Sætning X-1.png",
+    "Forberedelse/Ugesedler.md",
+    "Attachments/Sætning X.png",
+    "Attachments/sætning c.png",
+    "Forberedelse/Joint Distribution.md",
+    "Attachments/Sætning A'-1.png",
+    "Attachments/Sætning A'.png",
     "Forberedelse/Discrete and Continuous.md",
+    "Attachments/Egenskaver for GammaFordelingen.png",
+    "Attachments/Sætning A.png",
+    "Ugesedler/Untitled.md",
+    "Ugesedler",
+    "TØ/Tø Uge 10.md",
+    "Pasted image 20231211120634.png.md",
+    "Forberedelse/Stat Exam notes.md",
+    "Attachments/uge14 - Copy.pdf",
+    "Attachments/uge13 - Copy.pdf",
+    "Attachments/uge12_new.pdf",
+    "Attachments/uge12 - Copy (1).pdf",
+    "Attachments/uge11.pdf",
+    "Attachments/uge10 - Copy.pdf",
+    "Attachments/uge09.pdf",
+    "Attachments/uge08.pdf",
+    "Attachments/uge07.pdf",
     "Forberedelse/Point Estimation.md",
-    "R scripts/MatLab/Integral.asv",
-    "Attachments/Interval 6-1.png",
-    "Attachments/Interval 6.png",
-    "Attachments/Pasted image 20231218085220.png",
-    "Attachments/Interval 5.png",
-    "Attachments/t distribution def.png",
-    "Attachments/Chi-squared distribution def.png",
-    "Attachments/Interval 4-1.png",
-    "Attachments/Interval 4.png",
-    "Attachments/Example 8.18.png",
-    "Attachments/Interval 3.png",
+    "Forberedelse/Markov Chains and Integrals.md",
+    "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
     "Proofs/proof of lemma 1.1.md",
     "Proofs/proof of theorem 3.3.md",
     "Proofs/partition.md",
@@ -264,30 +283,12 @@
     "Afleveringer/Aflevering 11.md",
     "Afleveringer/Aflevering 12.md",
     "Afleveringer/Aflevering 13.md",
-    "TØ/Tø Uge 10.md",
     "Forlæsninger/Forlæsning 9.md",
     "Kapitel 8/8.2 Point Estimation.md",
     "Afleveringer/Aflevering 10.md",
     "Afleveringer/Aflevering 9.md",
     "Afleveringer/Aflevering 8.md",
     "Afleveringer/Aflevering 7.md",
-    "Afleveringer/Aflevering4.pdf",
-    "Afleveringer/Aflevering1.pdf",
-    "Kapitel 8/8.4 Hypothesis Testing.md",
-    "TØ/Tø uge 13.md",
-    "R scripts/MatLab/Limiting Distributions.asv",
-    "TØ/TØ uge 14.md",
-    "Kapitel 1/1.4 Conditional Probability.md",
-    "Forlæsninger/Forlæsning 22.md",
-    "R scripts/Trylleformlen.asv",
-    "HjælpeMidler/Formelsamling-ISS.pdf",
-    "HjælpeMidler/FORMELSAMLING Intro til SS og Statistik - Intro_til_SS_og_Statistik_formelsamling-10.pdf",
-    "Forlæsninger/Forlæsning 21.md",
-    "Forlæsninger/Forlæsning 23.md",
-    "Forlæsninger/Forlæsning 24.md",
-    "Forlæsninger/Forlæsning 25.md",
-    "R scripts/Simple Lineær regression.R",
-    "R scripts/MonteCarlo Integration.R",
-    "R scripts/Calculate Stationary distribution.R~"
+    "Kapitel 8/8.4 Hypothesis Testing.md"
   ]
 }
