@@ -37,9 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Forberedelse/Point Estimation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35df57b2f12d817c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Forberedelse/Discrete and Continuous.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a1656a05a2ae5ac2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "HjælpeMidler/Formelsamling-ISS.pdf"
               }
             }
           },
@@ -85,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Geometric",
+                "query": "sample mean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forberedelse/Discrete and Continuous.md",
+                "file": "Forberedelse/Point Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forberedelse/Discrete and Continuous.md",
+                "file": "Forberedelse/Point Estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forberedelse/Discrete and Continuous.md"
+                "file": "Forberedelse/Point Estimation.md"
               }
             }
           },
@@ -221,51 +243,51 @@
   },
   "active": "7a9829a1610fc9fd",
   "lastOpenFiles": [
-    "Attachments/Opgave 4 eksamen 1718.png",
-    "TØ/Tø Uge 10.md",
-    "HjælpeMidler/Gamle EksamensSæt.md",
-    "Attachments/Vinter 20222023 eopgave 5.png",
-    "Forberedelse/Discrete and Continuous.md",
-    "Attachments/Sætning b.png",
-    "Attachments/Memoryless exponential.png",
-    "Attachments/Uniform Appendix-1.png",
-    "Attachments/Uniform Appendix.png",
-    "Attachments/Erlang Appendix.png",
-    "Attachments/Gamma appendix.png",
-    "Attachments/T dist appendix.png",
-    "Attachments/Pasted image 20231213131341.png",
-    "Attachments/appendix chi squared.png",
-    "Chi squared appendixChi squared appendix.png.md",
-    "HjælpeMidler/Emner der skal læses op på.md",
-    "HjælpeMidler/FORMELSAMLING Intro til SS og Statistik - Intro_til_SS_og_Statistik_formelsamling-10.pdf",
     "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
-    "Kapitel 3/3.1 Basic Concepts.md",
-    "R scripts/Trylleformlen.asv",
-    "Afleveringer/Aflevering 9.md",
-    "Afleveringer/Aflevering 10.md",
+    "Forberedelse/Discrete and Continuous.md",
+    "Forberedelse/Point Estimation.md",
+    "R scripts/MatLab/Integral.asv",
+    "Attachments/Interval 6-1.png",
+    "Attachments/Interval 6.png",
+    "Attachments/Pasted image 20231218085220.png",
+    "Attachments/Interval 5.png",
+    "Attachments/t distribution def.png",
+    "Attachments/Chi-squared distribution def.png",
+    "Attachments/Interval 4-1.png",
+    "Attachments/Interval 4.png",
+    "Attachments/Example 8.18.png",
+    "Attachments/Interval 3.png",
+    "Proofs/proof of lemma 1.1.md",
+    "Proofs/proof of theorem 3.3.md",
+    "Proofs/partition.md",
+    "Proofs/BayesRuleProof.md",
     "Afleveringer/Aflevering 11.md",
     "Afleveringer/Aflevering 12.md",
-    "TØ/TØ uge 14.md",
-    "Forlæsninger/Forlæsning 20.md",
-    "HjælpeMidler/Formelsamling-ISS.pdf",
-    "R scripts/Simple Lineær regression.R",
-    "Kapitel 4/4.1 Continuous Random Variables and their Distributions.md",
-    "Forlæsninger/Monte carlo integration.md",
-    "R scripts/MonteCarlo Integration.R",
-    "R scripts/Calculate Stationary distribution.R~",
-    "Forlæsninger/Forlæsning 10.md",
-    "Forlæsninger/Forlæsning 15.md",
-    "Forlæsninger/Forlæsning 19.md",
-    "Forlæsninger/Forlæsning 16.md",
-    "Forlæsninger/Forlæsning 13.md",
-    "Forlæsninger/Forlæsning 5.md",
-    "Kapitel 1/1.3 Random Experrments and probabilities.md",
-    "TØ/Tø uge 9.md",
-    "Kapitel 1/1.4 Conditional Probability.md",
-    "Forberedelse",
-    "TØ/Untitled.md",
-    "R scripts/MatLab/Integral.asv",
+    "Afleveringer/Aflevering 13.md",
+    "TØ/Tø Uge 10.md",
+    "Forlæsninger/Forlæsning 9.md",
+    "Kapitel 8/8.2 Point Estimation.md",
+    "Afleveringer/Aflevering 10.md",
+    "Afleveringer/Aflevering 9.md",
+    "Afleveringer/Aflevering 8.md",
+    "Afleveringer/Aflevering 7.md",
+    "Afleveringer/Aflevering4.pdf",
+    "Afleveringer/Aflevering1.pdf",
+    "Kapitel 8/8.4 Hypothesis Testing.md",
+    "TØ/Tø uge 13.md",
     "R scripts/MatLab/Limiting Distributions.asv",
-    "R scripts/MatLab/Limiting Distributions.m"
+    "TØ/TØ uge 14.md",
+    "Kapitel 1/1.4 Conditional Probability.md",
+    "Forlæsninger/Forlæsning 22.md",
+    "R scripts/Trylleformlen.asv",
+    "HjælpeMidler/Formelsamling-ISS.pdf",
+    "HjælpeMidler/FORMELSAMLING Intro til SS og Statistik - Intro_til_SS_og_Statistik_formelsamling-10.pdf",
+    "Forlæsninger/Forlæsning 21.md",
+    "Forlæsninger/Forlæsning 23.md",
+    "Forlæsninger/Forlæsning 24.md",
+    "Forlæsninger/Forlæsning 25.md",
+    "R scripts/Simple Lineær regression.R",
+    "R scripts/MonteCarlo Integration.R",
+    "R scripts/Calculate Stationary distribution.R~"
   ]
 }

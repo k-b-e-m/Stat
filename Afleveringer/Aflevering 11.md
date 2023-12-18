@@ -1,6 +1,5 @@
 ![[Aflevering 11.png]]
 
-
 a)
 For at opsummere matematisk har vi altså følgende udsagn.
 $X_{i} \sim Exponential(\lambda)$ 

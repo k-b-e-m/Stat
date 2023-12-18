@@ -303,7 +303,7 @@ Side 163
 $$
 F_{X}(x)=\int_{ - \infty}^{x}f_{X}(u)du
 $$
-hvor $f_{X}(x) er $
+hvor $f_{X}(x)$ er en PDF 
 ### PDF
 #### Find PDF
 ![[Defination 4.2 A probability density function (PDF).png]]
@@ -382,12 +382,24 @@ Side 189
 ![[Beta appendix.png]]
 
 #### $\chi^{2}$ (n) (Chi - squared)
+##### Defination
+![[Chi-squared distribution def.png]]
+side 462
+##### Theorem 8.3
+![[Theorem 8.3.png]]
+
 ##### Appendix
 ![[appendix chi squared.png]]
 
 
 
 #### T(n) The t - Distribution
+##### Definition
+![[t distribution def.png]]
+side 464
+##### Theorem 8.4
+![[Theorem 8.4.png]]
+Side 465
 ##### Appendix
 ![[T dist appendix.png]]
 
