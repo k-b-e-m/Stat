@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forberedelse/Markov Chains and Integrals.md",
+                "file": "Forberedelse/Point Estimation, Intervals, Hypothesis Tests and Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forberedelse/Discrete and Continuous.md",
+                "file": "Forberedelse/Joint Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sample mean",
+                "query": "p værdi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forberedelse/Markov Chains and Integrals.md",
+                "file": "Forberedelse/Joint Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forberedelse/Markov Chains and Integrals.md",
+                "file": "Forberedelse/Joint Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forberedelse/Markov Chains and Integrals.md"
+                "file": "Forberedelse/Joint Distribution.md"
               }
             }
           },
@@ -242,11 +242,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7a9829a1610fc9fd",
+  "active": "35df57b2f12d817c",
   "lastOpenFiles": [
+    "Attachments/Opgave sæt.png",
+    "Attachments/406860447_2379955518872191_8665482984777997404_n.jpg",
+    "Forberedelse/Discrete and Continuous.md",
+    "Forberedelse/Point Estimation, Intervals, Hypothesis Tests and Linear Regression.md",
+    "Forberedelse/Point Estimation.md",
+    "Forberedelse/Markov Chains and Integrals.md",
     "Attachments/Sætning E.png",
     "Attachments/Sætning D.png",
-    "Forberedelse/Point Estimation, Intervals, Hypothesis Tests and Linear Regression.md",
     "Attachments/P value.png",
     "Attachments/P value ugeseddel.png",
     "Attachments/Sætning X-1.png",
@@ -256,9 +261,6 @@
     "Forberedelse/Joint Distribution.md",
     "Attachments/Sætning A'-1.png",
     "Attachments/Sætning A'.png",
-    "Forberedelse/Discrete and Continuous.md",
-    "Attachments/Egenskaver for GammaFordelingen.png",
-    "Attachments/Sætning A.png",
     "Ugesedler/Untitled.md",
     "Ugesedler",
     "TØ/Tø Uge 10.md",
@@ -273,8 +275,6 @@
     "Attachments/uge09.pdf",
     "Attachments/uge08.pdf",
     "Attachments/uge07.pdf",
-    "Forberedelse/Point Estimation.md",
-    "Forberedelse/Markov Chains and Integrals.md",
     "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
     "Proofs/proof of lemma 1.1.md",
     "Proofs/proof of theorem 3.3.md",

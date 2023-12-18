@@ -177,3 +177,9 @@ $$
 	\end{align}$$
 
 
+
+#### P($X^{3}\cdot U<1$)
+![[Opgave sæt.png]]
+
+![[406860447_2379955518872191_8665482984777997404_n.jpg]]
+Løsning LTS = law OF Total Probability på side 275
