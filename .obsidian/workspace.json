@@ -47,11 +47,9 @@
             "id": "35df57b2f12d817c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Forberedelse/Joint Distribution.md",
-                "mode": "source",
-                "source": false
+                "file": "HjælpeMidler/Integral_Differential regneregler.png"
               }
             }
           },
@@ -152,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forberedelse/Joint Distribution.md",
+                "file": "HjælpeMidler/Integral_Differential regneregler.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forberedelse/Joint Distribution.md",
+                "file": "HjælpeMidler/Integral_Differential regneregler.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forberedelse/Joint Distribution.md"
+                "file": "HjælpeMidler/Integral_Differential regneregler.png"
               }
             }
           },
@@ -244,6 +242,12 @@
   },
   "active": "35df57b2f12d817c",
   "lastOpenFiles": [
+    "HjælpeMidler/LogaritmeRegneRegler.png",
+    "HjælpeMidler/Integral_Differential regneregler.png",
+    "HjælpeMidler/BrøkRegneregler.webp",
+    "HjælpeMidler/Formelsamling-ISS.pdf",
+    "HjælpeMidler/FORMELSAMLING Intro til SS og Statistik - Intro_til_SS_og_Statistik_formelsamling-10.pdf",
+    "Forberedelse/Joint Distribution.md",
     "Attachments/Opgave sæt.png",
     "Attachments/406860447_2379955518872191_8665482984777997404_n.jpg",
     "Forberedelse/Discrete and Continuous.md",
@@ -257,10 +261,6 @@
     "Attachments/Sætning X-1.png",
     "Forberedelse/Ugesedler.md",
     "Attachments/Sætning X.png",
-    "Attachments/sætning c.png",
-    "Forberedelse/Joint Distribution.md",
-    "Attachments/Sætning A'-1.png",
-    "Attachments/Sætning A'.png",
     "Ugesedler/Untitled.md",
     "Ugesedler",
     "TØ/Tø Uge 10.md",
@@ -273,8 +273,6 @@
     "Attachments/uge11.pdf",
     "Attachments/uge10 - Copy.pdf",
     "Attachments/uge09.pdf",
-    "Attachments/uge08.pdf",
-    "Attachments/uge07.pdf",
     "Kapitel 3/3.2 Cummulative Distribution Function CDF.md",
     "Proofs/proof of lemma 1.1.md",
     "Proofs/proof of theorem 3.3.md",

@@ -3,7 +3,7 @@ syms x;
 syms p;
 
 % Define the function to be integrated
-f = exp(2*x) * 3 * exp(-3*x);
+f = (1+(1/x^3)^-2)
 
 % Integrate from 0 to infinity symbolically
 %result = int(f, 0, Inf);
